@@ -1,0 +1,31 @@
+{
+  "name": "la-mapathon-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "get-data": "curl -L https://sheets.googleapis.com/v4/spreadsheets/1Gk1f8Ub28jTtSHxCYliwgmt4ub5sBQq_lnW9u12hTdM/values/Sheet1!A:D?key=AIzaSyBbROauxrPnLdR3Z_WGc8ZzJvEU31OpGWg -o src/_data/raw_content.json",
+    "process-data": "npm run get-data && node process.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rm -rf docs",
+    "build": "npx @11ty/eleventy",
+    "clean:build": "npm run clean && npm run build",
+    "serve": "npx @11ty/eleventy --serve",
+    "debug": "DEBUG=* npx @11ty/eleventy --serve",
+    "start": "npm run clean && npm run build && npm run serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/la-mapathon/website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/la-mapathon/website/issues"
+  },
+  "homepage": "https://github.com/la-mapathon/website#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}

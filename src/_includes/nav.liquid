@@ -1,0 +1,26 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <button
+      class="navbar-toggler ms-auto"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#mainNav"
+      aria-controls="mainNav"
+      aria-expanded="false"
+      aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mainNav">
+      <div class="navbar-nav ms-auto text-end">
+        <a
+          class="nav-link active"
+          aria-current="page"
+          href="{{ '/' | append: lang | url }}">Home</a>
+        <a class="nav-link" href="{{ '/schedule/' | url }}">Schedule</a>
+        <a class="nav-link" href="{{ '/resources/' | url }}">Resources</a>
+        <a class="nav-link" href="{{ '/team/' | url }}">Meet the Experts</a>
+
+      </div>
+    </div>
+  </div>
+</nav>

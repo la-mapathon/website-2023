@@ -1,0 +1,99 @@
+---
+layout: home
+pagination:
+    data: contents
+    size: 1
+    alias: content
+permalink: "{{ content.lang | slugify }}/"
+eleventyComputed:
+    lang: "{{ content.lang }}"
+---
+<div class="container">
+  <h1 class="display-2 my-4 text-center">{{ content.home.pageHeader }}
+  </h1>
+  <div class="my-2 text-center">
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <img src="{{ '/images/gisday.png' | url }}" class="img-fluid">
+        <br>
+        <div class="display-4 p-5">{{ content.home.heroTitle }}</div>
+      </div>
+    </div>
+  </div>
+  <h2>
+    {{ content.home.section1 }} {{ content.sitewide.dateRange }}
+  </h2>
+  <p>
+    {{ content.home.content1 }}
+  </p>
+  <p>
+    {{ content.home.content2 }}
+  </p>
+
+  <div class="row">
+    <div class="col">
+      <div class="card text-center h-100">
+        <div class="card-header">
+          <h5 class="card-title">{{ content.home.cardHeader1 }}</h2>
+        </div>
+        <div class="card-body d-flex flex-column justify-content-between">
+          <p class="card-text">{{ content.home.cardContent1 }}</p>
+          <a
+            href="{{ content.home.cardLink1 }}"
+            class="btn btn-primary"
+            target="_blank">{{ content.home.cardButton1 }}</a>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card text-center h-100">
+        <div class="card-header">
+          <h5 class="card-title">{{ content.home.cardHeader2 }}</h5>
+        </div>
+        <div class="card-body d-flex flex-column justify-content-between">
+          <p class="card-text">{{ content.home.cardContent2 }}</p>
+          <a href="/schedule" class="btn btn-primary">{{ content.home.cardButton2 }}</a>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card text-center h-100">
+        <div class="card-header">
+          <h5 class="card-title">{{ content.home.cardHeader3 }}</h5>
+        </div>
+        <div class="card-body d-flex flex-column justify-content-between">
+          <p class="card-text">{{ content.home.cardContent3 }}</p>
+          <a
+            href="https://mapathon.la/tutorial/"
+            target="_blank"
+            class="btn btn-primary">{{ content.home.cardButton3 }}</a>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card text-center h-100">
+        <div class="card-header">
+          <h5 class="card-title">{{ content.home.cardHeader4 }}</h5>
+        </div>
+        <div class="card-body d-flex flex-column justify-content-between">
+          <p class="card-text">{{ content.home.cardContent4 }}</p>
+          <a
+            href="https://join.slack.com/t/2022lamapathon/shared_invite/zt-157jxyuev-Iuwv9oAkSEmi_1OFs7Mmgg"
+            target="_blank"
+            class="btn btn-primary">{{ content.home.cardButton4 }}</a>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card text-center h-100">
+        <div class="card-header">
+          <h5 class="card-title">{{ content.home.cardHeader5 }}</h5>
+        </div>
+        <div class="card-body d-flex flex-column justify-content-between">
+          <p class="card-text">{{ content.home.cardContent5 }}</p>
+          <a href="https://www.missingmaps.org/leaderboards/#/uclamapathon2022,uscmapathon2022,maptimelamapathon2022" class="btn btn-primary">{{ content.home.cardButton5 }}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,169 @@
+{
+  "range": "Sheet1!A1:D1003",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "section",
+      "field",
+      "en",
+      "ja"
+    ],
+    [
+      "sitewide",
+      "siteName",
+      "6th Annual Humanitarian Mapathon"
+    ],
+    [
+      "sitewide",
+      "linkhome",
+      "Home"
+    ],
+    [
+      "sitewide",
+      "linkSchedule",
+      "Schedule"
+    ],
+    [
+      "sitewide",
+      "linkResources",
+      "Resources"
+    ],
+    [
+      "sitewide",
+      "linkExperts",
+      "Meet the Experts"
+    ],
+    [
+      "sitewide",
+      "dateRange",
+      "April 19 through April 21"
+    ],
+    [
+      "sitewide",
+      "startTime"
+    ],
+    [
+      "sitewide",
+      "endDay"
+    ],
+    [
+      "sitewide",
+      "endTime"
+    ],
+    [
+      "home",
+      "pageName",
+      "Home"
+    ],
+    [
+      "home",
+      "pageHeader",
+      "6th Annual Humanitarian Mapathon (International Edition)"
+    ],
+    [
+      "home",
+      "pageSubheader",
+      "UCLA: #uclamapathon2023\u003cbr\u003eUSC: #uscmapathon2023\u003cbr\u003eMaptimeLA: #maptimelamapathon2023"
+    ],
+    [
+      "home",
+      "heroTitle",
+      "Our Goal:\u003cbr\u003eMapping 20,000 Buildings"
+    ],
+    [
+      "home",
+      "section1",
+      "Join Us"
+    ],
+    [
+      "home",
+      "content1",
+      "UCLA, USC, and Reitaku University join forces to host the 6th Annual Humanitarian Mapathon, a free mapping competition to support the \u003ca href=\"https://www.hotosm.org/\" target=\"_blank\"\u003eHumanitarian OpenStreetMap Team (HOT)\u003c/a\u003e. Everybody is welcome to attend, whether you have any mapping experience or not! Training will be provided to ensure that you are able to participate and contribute to humanitarian causes around the world. "
+    ],
+    [
+      "home",
+      "content2",
+      "This three-day international hybrid event will include student speakers, hands-on training, donuts, prizes, and more. Join a community of humanitarian mappers, and let's all make a difference."
+    ],
+    [
+      "home",
+      "cardHeader1",
+      "Register Now!"
+    ],
+    [
+      "home",
+      "cardContent1",
+      "Register and get the mapathon Zoom link."
+    ],
+    [
+      "home",
+      "cardButton1",
+      "Register Now!"
+    ],
+    [
+      "home",
+      "cardLink1",
+      "/"
+    ],
+    [
+      "home",
+      "cardHeader2",
+      "Agenda"
+    ],
+    [
+      "home",
+      "cardContent2",
+      "The mapathon will span a two-day period starting at _____ to _____. Check out the full agenda here."
+    ],
+    [
+      "home",
+      "cardButton2",
+      "View Agenda"
+    ],
+    [
+      "home",
+      "cardHeader3",
+      "Mapathon Tutorial"
+    ],
+    [
+      "home",
+      "cardContent3",
+      "New to OpenStreetMap and humanitarian mapping? We got you covered! Follow this step-by-step tutorial and you'll be mapping in just a few minutes."
+    ],
+    [
+      "home",
+      "cardButton3",
+      "View Tutorial"
+    ],
+    [
+      "home",
+      "cardHeader4",
+      "Join us on Slack!"
+    ],
+    [
+      "home",
+      "cardContent4",
+      "For the duration of the two-day mapathon, our Slack channel will be monitored by the friendly mapathon experts. Join the channel to say \"Hi\", meet other mapathoners, and ask us questions."
+    ],
+    [
+      "home",
+      "cardButton4",
+      "Join the Slack Channel"
+    ],
+    [
+      "home",
+      "cardHeader5",
+      "Leaderboard"
+    ],
+    [
+      "home",
+      "cardContent5",
+      "Note that the leaderboard may take time (sometimes a few hours) to reflect the most recent changes."
+    ],
+    [
+      "home",
+      "cardButton5",
+      "View Leaderboard"
+    ]
+  ]
+}
