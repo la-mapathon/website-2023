@@ -1,4 +1,20 @@
----
+<!DOCTYPE html>
+<html>
+<head>
+	<script>
+		localStorage.setItem("lang", "en");
+		let lang = localStorage.getItem("lang");
+		console.log(lang);
+
+		let url = window.location.href;
+		console.log(url);
+		window.location.replace(url + lang + '/');
+	</script>
+</head>
+<body></body>
+</html>
+
+<!-- ---
 layout: default
 pageTitle: Home
 ---
@@ -29,12 +45,12 @@ pageTitle: Home
 			<p class="lead" style="padding: 5px; background-color: rgba(255,255,255,0.5);">That is our goal. To digitize and map 20,000 buildings<br>for areas around the world where data is needed to help save or improve lives.</p>
 			<br><br> 
 		</div>
-	</div>
+	</div> -->
 
 	<!-- <img src="images/gisday.png" class="img-fluid"> -->
-</div>
+<!-- </div> -->
 
-<div class="container">
+<!-- <div class="container">
 
 	<h2>Join Us!</h2>
 	<p>Wednesday April 20th and Thursday April 21st</p>
@@ -111,5 +127,5 @@ pageTitle: Home
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 

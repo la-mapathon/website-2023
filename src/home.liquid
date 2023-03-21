@@ -9,14 +9,17 @@ eleventyComputed:
     lang: "{{ content.lang }}"
 ---
 <div class="container">
-  <h1 class="display-2 my-4 text-center">{{ content.home.pageHeader }}
+  <h1 class="display-3 my-5 text-center">{{ content.home.pageHeader }}
   </h1>
   <div class="my-2 text-center">
     <div class="jumbotron jumbotron-fluid">
       <div class="container">
-        <img src="{{ '/images/gisday.png' | url }}" class="img-fluid">
+        <img
+          src="{{ '/images/gisday.png' | url }}"
+          class="img-fluid"
+          alt="a merged photo of students participating in the mapathon at USC and UCLA">
         <br>
-        <div class="display-4 p-5">{{ content.home.heroTitle }}</div>
+        <div class="display-6 p-5">{{ content.home.heroTitle }}</div>
       </div>
     </div>
   </div>
