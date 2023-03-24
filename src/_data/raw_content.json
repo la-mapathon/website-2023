@@ -218,7 +218,7 @@
     [
       "schedule",
       "day1EventDescription1",
-      "Welcome from Yoh (Japan) and Andy (Mexico/USA)! (15 min)"
+      "\u003cstrong\u003eWelcome\u003c/strong\u003e (15 min)\n\u003cbr\u003e- Yoh (Japan) and Andy (Mexico/USA)!"
     ],
     [
       "schedule",
@@ -229,7 +229,7 @@
     [
       "schedule",
       "day1EventDescription2",
-      "Keynote - Taichi Furuhashi (30 min)\n\u003cbr\u003e\u003cbr\u003e\nTaichi Furuhashi is passionate about mapping, connecting local communities with maps and sharing knowledge to empower people. As you know, Huge Earthquake and Tsunami destroyed a lot of cities and local communities in East Japan area in 2011. They are trying, how to make more resilient society with Mapping, Panorama/VR and Drone technology. Taichi is a professor of Aoyama Gakuin University and President of CrisisMappers Japan, NPO. Now he has started DRONEBIRD project with drones for Disaster Crisis Response."
+      "\u003cstrong\u003eKeynote\u003c/strong\u003e (30 min)\n\u003cbr\u003e\n- Taichi Furuhashi \n\u003cbr\u003e\u003cbr\u003e\nTaichi Furuhashi is passionate about mapping, connecting local communities with maps and sharing knowledge to empower people. As you know, Huge Earthquake and Tsunami destroyed a lot of cities and local communities in East Japan area in 2011. They are trying, how to make more resilient society with Mapping, Panorama/VR and Drone technology. Taichi is a professor of Aoyama Gakuin University and President of CrisisMappers Japan, NPO. Now he has started DRONEBIRD project with drones for Disaster Crisis Response."
     ],
     [
       "schedule",
@@ -240,7 +240,7 @@
     [
       "schedule",
       "day1EventDescription3",
-      "Intro + Training (30 min)"
+      "\u003cstrong\u003eIntro + Training\u003c/strong\u003e (30 min)"
     ],
     [
       "schedule",
@@ -251,7 +251,7 @@
     [
       "schedule",
       "day1EventDescription4",
-      "Mapping in-person, live Slack support "
+      "\u003cstrong\u003eMapping in-person, live Slack support\u003c/strong\u003e"
     ],
     [
       "schedule",
@@ -262,7 +262,7 @@
     [
       "schedule",
       "day1EventDescription5",
-      "Live events conclude for Day 1!"
+      "\u003cstrong\u003eLive events conclude for Day 1!\u003c/strong\u003e"
     ],
     [
       "schedule",
@@ -284,7 +284,7 @@
     [
       "schedule",
       "day2EventDescription1",
-      "Day 2 Opening Remarks (10 min)"
+      "\u003cstrong\u003eDay 2 Opening Remarks\u003c/strong\u003e (10 min)"
     ],
     [
       "schedule",
@@ -295,7 +295,7 @@
     [
       "schedule",
       "day2EventDescription2",
-      "Lightning Talk Marathon (100 min)"
+      "\u003cstrong\u003eLightning Talk Marathon\u003c/strong\u003e (100 min)"
     ],
     [
       "schedule",
@@ -306,7 +306,7 @@
     [
       "schedule",
       "day2EventDescription3",
-      "Day 2 Leaderboard Reveal and Wrap Up"
+      "\u003cstrong\u003eDay 2 Leaderboard Reveal and Wrap Up\u003c/strong\u003e"
     ],
     [
       "schedule",
@@ -328,7 +328,7 @@
     [
       "schedule",
       "day3EventDescription1",
-      "Day 3 Opening Remarks (15 min)"
+      "\u003cstrong\u003eDay 3 Opening Remarks\u003c/strong\u003e (15 min)"
     ],
     [
       "schedule",
@@ -339,7 +339,7 @@
     [
       "schedule",
       "day3EventDescription2",
-      "Closing Keynote - Céline Jacquin (30 min)\n\u003cbr\u003e\u003cbr\u003e\nI am a French geographer who has lived in Mexico City for half part of my life, as an urban studies researcher and open data and civic technology activist through OpenStreetMap and other citizen science projects focused on urban mobility, gender, and community building like Geochicas. I have participated in various open governance programs at the university, at the World Resources Institute, and in two federal scientific institutions in Mexico (CONACyT and INEGI). I am involved as much as my time allows in diversity and inclusion activities within OSM. I have been a project manager for HOT in Latin America since 2021 and am now the Senior Manager of Community Programs for Latin America."
+      "\u003cstrong\u003eClosing Keynote\u003c/strong\u003e (30 min)\n\u003cbr\u003e\n- Céline Jacquin\n\u003cbr\u003e\u003cbr\u003e\nI am a French geographer who has lived in Mexico City for half part of my life, as an urban studies researcher and open data and civic technology activist through OpenStreetMap and other citizen science projects focused on urban mobility, gender, and community building like Geochicas. I have participated in various open governance programs at the university, at the World Resources Institute, and in two federal scientific institutions in Mexico (CONACyT and INEGI). I am involved as much as my time allows in diversity and inclusion activities within OSM. I have been a project manager for HOT in Latin America since 2021 and am now the Senior Manager of Community Programs for Latin America."
     ],
     [
       "schedule",
@@ -350,7 +350,7 @@
     [
       "schedule",
       "day3EventDescription3",
-      "Big Reveal, Prizes, and Closing Remarks"
+      "\u003cstrong\u003eBig Reveal, Prizes, and Closing Remarks\u003c/strong\u003e"
     ]
   ]
 }
