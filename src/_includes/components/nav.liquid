@@ -1,3 +1,9 @@
+{% if page.lang == 'en' %}
+  {% assign source = en_content %}
+{% elsif page.lang == 'ja' %}
+  {% assign source = ja_content %}
+{% endif %}
+
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <button
@@ -12,14 +18,11 @@
     </button>
     <div class="collapse navbar-collapse" id="mainNav">
       <div class="navbar-nav ms-auto text-end">
-        <a
-          class="nav-link active"
-          aria-current="page"
-          href="{{ '/' | url: page.lang }}">Home</a>
-        <a class="nav-link" href="{{ '/schedule/' | url: page.lang }}">Schedule</a>
-        <a class="nav-link" href="{{ '/resources/' | url: page.lang }}">Resources</a>
-        <a class="nav-link" href="{{ '/team/' | url: page.lang }}">Meet the Experts</a>
-        <a class="nav-link" href="{{ '/about/' | url: page.lang }}">About</a>
+        <a class="nav-link" href="{{ '/' | url: page.lang }}">{{ source.nav.navIndex }}</a>
+        <a class="nav-link" href="{{ '/schedule/' | url: page.lang }}">{{ source.nav.navSchedule }}</a>
+        <a class="nav-link" href="{{ '/resources/' | url: page.lang }}">{{ source.nav.navResources }}</a>
+        <a class="nav-link" href="{{ '/team/' | url: page.lang }}">{{ source.nav.navTeam }}</a>
+        <a class="nav-link" href="{{ '/about/' | url: page.lang }}">{{ source.nav.navAbout }}</a>
         <div class="dropdown">
           <a
             class="btn btn-secondary dropdown-toggle"

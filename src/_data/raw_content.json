@@ -1,5 +1,5 @@
 {
-  "range": "Sheet1!A1:D1003",
+  "range": "Sheet1!A1:D1007",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -40,15 +40,43 @@
     ],
     [
       "sitewide",
-      "startTime"
+      "StartDatetime",
+      "4/18/2023 17:00:00"
     ],
     [
       "sitewide",
-      "endDay"
+      "EndDatetime",
+      "4/20/2023 19:00:00"
     ],
     [
-      "sitewide",
-      "endTime"
+      "nav",
+      "navIndex",
+      "Home",
+      "Home"
+    ],
+    [
+      "nav",
+      "navSchedule",
+      "Schedule",
+      "Schedule"
+    ],
+    [
+      "nav",
+      "navResources",
+      "Resources",
+      "Resources"
+    ],
+    [
+      "nav",
+      "navTeam",
+      "Meet the Experts",
+      "Meet the Experts"
+    ],
+    [
+      "nav",
+      "navAbout",
+      "About",
+      "About"
     ],
     [
       "home",
