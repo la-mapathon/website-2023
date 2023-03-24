@@ -1,0 +1,40 @@
+# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+name: Manually Process Site
+
+on:
+  workflow_dispatch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v3
+      with:
+        ref: ${{ github.head_ref }}
+    - name: Use Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16
+        cache: 'npm'
+    - name: Install Dependencies
+      run: npm install
+    - name: Download Data
+      run: npm run process-data
+    - name: Build Site
+      run: npm run clean:build
+    - name: Check file existence
+      id: check_files
+      uses: andstor/file-existence-action@v1
+      with:
+        files: "CNAME"
+    - name: If CNAME exists then copy CNAME to docs/
+      if: steps.check_files.outputs.files_exists == 'true'
+      run: cp CNAME docs/
+    - name: Commit and push changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: '[Auto] clean and build site for prod'
