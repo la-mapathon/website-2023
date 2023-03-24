@@ -7,3 +7,17 @@ layout: default
 {% elsif page.lang == 'ja' %}
   {% assign source = ja_content %}
 {% endif %}
+
+<div class="container">
+  <h1 class="display-3 my-5 text-center">{{ source.about.pageHeader }}
+  </h1>
+
+  <p>
+    {{ source.about.pageContent }}
+  </p>
+
+  <ul>
+    <li><a href="https:/la-mapathon.github.io/website-2022" target="_blank">2022 - 5th Annual Los Angeles Humanitarian Mapathon</a></li>
+    <li><a href="https://sites.google.com/view/lamapathon/home" target="_blank">2020 - 4th Annual Los Angeles Humanitarian Mapathon</a></li>
+  </ul>
+</div>

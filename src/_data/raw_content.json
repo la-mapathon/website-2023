@@ -396,6 +396,21 @@
       "resources",
       "resourceDescription3",
       "Use this quick start guide to get going!"
+    ],
+    [
+      "team",
+      "pageHeader",
+      "Meet the Experts"
+    ],
+    [
+      "about",
+      "pageHeader",
+      "About"
+    ],
+    [
+      "about",
+      "pageContent",
+      "This Mapathon started as a joint event held by UCLA and USC for GIS Day. Below are links to the websites for past events."
     ]
   ]
 }
