@@ -7,3 +7,116 @@ layout: default
 {% elsif page.lang == 'ja' %}
   {% assign source = ja_content %}
 {% endif %}
+
+<div class="container">
+  <h1 class="display-3 my-5 text-center">{{ source.schedule.pageHeader }}
+  </h1>
+  <div class="my-2 text-center">
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <img
+          src="{{ '/images/donuts.png' | url }}"
+          class="img-fluid"
+          alt="a screenshot of the OpenStreetMap editing screen with a donut emoji and a coffee emoji.">
+        <br>
+      </div>
+    </div>
+  </div>
+
+  <h2 class="display-5 mt-5">{{ source.schedule.day1 }}</h2>
+  <h3>{{ source.schedule.date1 }}</h3>
+  <div class="row mt-4">
+    <div class="col-2 text-end">
+      {{ source.schedule.day1EventTime1 }}
+    </div>
+    <div class="col">
+      {{ source.schedule.day1EventDescription1 }}
+    </div>
+  </div>
+  <div class="row mt-4">
+    <div class="col-2 text-end">
+      {{ source.schedule.day1EventTime2 }}
+    </div>
+    <div class="col">
+      {{ source.schedule.day1EventDescription2 }}
+    </div>
+  </div>
+  <div class="row mt-4">
+    <div class="col-2 text-end">
+      {{ source.schedule.day1EventTime3 }}
+    </div>
+    <div class="col">
+      {{ source.schedule.day1EventDescription3 }}
+    </div>
+  </div>
+  <div class="row mt-4">
+    <div class="col-2 text-end">
+      {{ source.schedule.day1EventTime4 }}
+    </div>
+    <div class="col">
+      {{ source.schedule.day1EventDescription4 }}
+    </div>
+  </div>
+  <div class="row mt-4">
+    <div class="col-2 text-end">
+      {{ source.schedule.day1EventTime5 }}
+    </div>
+    <div class="col">
+      {{ source.schedule.day1EventDescription5 }}
+    </div>
+  </div>
+
+  <h2 class="display-5 mt-5">{{ source.schedule.day2 }}</h2>
+  <h3>{{ source.schedule.date2 }}</h3>
+  <div class="row mt-4">
+    <div class="col-2 text-end">
+      {{ source.schedule.day2EventTime1 }}
+    </div>
+    <div class="col">
+      {{ source.schedule.day2EventDescription1 }}
+    </div>
+  </div>
+  <div class="row mt-4">
+    <div class="col-2 text-end">
+      {{ source.schedule.day2EventTime2 }}
+    </div>
+    <div class="col">
+      {{ source.schedule.day2EventDescription2 }}
+    </div>
+  </div>
+  <div class="row mt-4">
+    <div class="col-2 text-end">
+      {{ source.schedule.day2EventTime3 }}
+    </div>
+    <div class="col">
+      {{ source.schedule.day2EventDescription3 }}
+    </div>
+  </div>
+
+  <h2 class="display-5 mt-5">{{ source.schedule.day3 }}</h2>
+  <h3>{{ source.schedule.date3 }}</h3>
+  <div class="row mt-4">
+    <div class="col-2 text-end">
+      {{ source.schedule.day3EventTime1 }}
+    </div>
+    <div class="col">
+      {{ source.schedule.day3EventDescription1 }}
+    </div>
+  </div>
+  <div class="row mt-4">
+    <div class="col-2 text-end">
+      {{ source.schedule.day3EventTime2 }}
+    </div>
+    <div class="col">
+      {{ source.schedule.day3EventDescription2 }}
+    </div>
+  </div>
+  <div class="row mt-4">
+    <div class="col-2 text-end">
+      {{ source.schedule.day3EventTime3 }}
+    </div>
+    <div class="col">
+      {{ source.schedule.day3EventDescription3 }}
+    </div>
+  </div>
+</div>

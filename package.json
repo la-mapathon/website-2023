@@ -12,7 +12,7 @@
     "clean:build": "npm run clean && npm run build",
     "serve": "npx @11ty/eleventy --serve",
     "debug": "DEBUG=* npx @11ty/eleventy --serve",
-    "start": "npm run clean && npm run build && npm run serve"
+    "start": "npm run clean && npm run process-data && npm run serve"
   },
   "repository": {
     "type": "git",
