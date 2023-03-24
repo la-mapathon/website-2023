@@ -351,6 +351,51 @@
       "schedule",
       "day3EventDescription3",
       "\u003cstrong\u003eBig Reveal, Prizes, and Closing Remarks\u003c/strong\u003e"
+    ],
+    [
+      "resources",
+      "pageHeader",
+      "Resources"
+    ],
+    [
+      "resources",
+      "section1Header",
+      "Start Here!"
+    ],
+    [
+      "resources",
+      "section1Content",
+      "To participate in the Mapathon, you will need to create both an OSM account and a HOT OSM account."
+    ],
+    [
+      "resources",
+      "resource1",
+      "\u003ca href=\"https://www.openstreetmap.org/user/new\" target=\"_blank\"\u003eOpenStreetMap Sign Up\u003c/a\u003e"
+    ],
+    [
+      "resources",
+      "resourceDescription1",
+      "Create an OSM account because it is required to use HOT OSM."
+    ],
+    [
+      "resources",
+      "resource2",
+      "\u003ca href=\"https://tasks.hotosm.org/login\" target=\"_blank\"\u003eHOT OSM Sign Up\u003c/a\u003e"
+    ],
+    [
+      "resources",
+      "resourceDescription2",
+      "HOT OSM is what you will use to participate in the Mapathon by contributing to humanitarian mapping projects."
+    ],
+    [
+      "resources",
+      "resource3",
+      "\u003ca href=\"https://tasks.hotosm.org/learn/quickstart\" target=\"_blank\"\u003eHOT OSM Quick Start Guide\u003c/a\u003e"
+    ],
+    [
+      "resources",
+      "resourceDescription3",
+      "Use this quick start guide to get going!"
     ]
   ]
 }
