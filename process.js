@@ -1,9 +1,9 @@
-const fs = require('fs');
-const json_path = 'src/_data/';
-const json_input_file = 'raw_content.json';
-const json_output_file = 'contents.json';
+const FS = require('fs');
+const JSON_PATH = 'src/_data/';
+const JSON_INPUT_FILE = 'raw_content.json';
+const JSON_OUTPUT_FILE = 'contents.json';
 
-fs.readFile(json_path + json_input_file, 'utf8', (err, jsonStringInput) => {
+FS.readFile(JSON_PATH + JSON_INPUT_FILE, 'utf8', (err, jsonStringInput) => {
     if (err) {
         console.log('File read failed: ' + err);
         return;
@@ -13,7 +13,7 @@ fs.readFile(json_path + json_input_file, 'utf8', (err, jsonStringInput) => {
         const content = JSON.parse(jsonStringInput);
         console.log('Sheet range is: ', content.range);
 
-        let result = [
+        let results = [
             {
                 'lang': 'en'
             },
@@ -38,28 +38,30 @@ fs.readFile(json_path + json_input_file, 'utf8', (err, jsonStringInput) => {
 
             if (section_value != section) {
                 section = section_value;
-                result[0][section] = {};
-                result[1][section] = {};
+                results[0][section] = {};
+                results[1][section] = {};
             }
             
             if (typeof en_value != 'undefined') {
-                result[0][section][fieldname_value] = en_value;
+                results[0][section][fieldname_value] = en_value;
             }
 
             if (typeof ja_value != 'undefined') {
-                result[1][section][fieldname_value] = ja_value;
+                results[1][section][fieldname_value] = ja_value;
             }
         }
 
-        const jsonStringOutput = JSON.stringify(result);
-        fs.writeFile(json_path + json_output_file, jsonStringOutput, err => {
-            if (err) {
-                console.log('Error writing file: ', err);
-            } else {
-                console.log('Successfully wrote file');
-            }
-        });
+        for (result of results) {
+            const jsonStringOutput = JSON.stringify(result);
 
+            FS.writeFile(JSON_PATH + result.lang + '_content.json', jsonStringOutput, err => {
+                if (err) {
+                    console.log('Error writing file: ', err);
+                } else {
+                    console.log('Successfully wrote file');
+                }
+            });
+        }
     } catch (err) {
         console.log('Error parsing JSON string: ' + err);
     }

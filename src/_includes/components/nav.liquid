@@ -15,12 +15,30 @@
         <a
           class="nav-link active"
           aria-current="page"
-          href="{{ '/' | append: lang | url }}">Home</a>
-        <a class="nav-link" href="{{ '/schedule/' | url }}">Schedule</a>
-        <a class="nav-link" href="{{ '/resources/' | url }}">Resources</a>
-        <a class="nav-link" href="{{ '/team/' | url }}">Meet the Experts</a>
-        <a class="nav-link" href="{{ '/about/' | url }}">About</a>
+          href="{{ '/' | url: page.lang }}">Home</a>
+        <a class="nav-link" href="{{ '/schedule/' | url: page.lang }}">Schedule</a>
+        <a class="nav-link" href="{{ '/resources/' | url: page.lang }}">Resources</a>
+        <a class="nav-link" href="{{ '/team/' | url: page.lang }}">Meet the Experts</a>
+        <a class="nav-link" href="{{ '/about/' | url: page.lang }}">About</a>
+        <div class="dropdown">
+          <a
+            class="btn btn-secondary dropdown-toggle"
+            href="#"
+            role="button"
+            data-bs-toggle="dropdown"
+            aria-expanded="false">
+            Language
+          </a>
 
+          <ul class="dropdown-menu">
+            <li>
+              <a class="dropdown-item" href="/en/">English</a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="/ja/">Japanese</a>
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
   </div>
