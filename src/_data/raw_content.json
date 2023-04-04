@@ -11,42 +11,50 @@
     [
       "sitewide",
       "siteName",
+      "6th Annual Humanitarian Mapathon",
       "6th Annual Humanitarian Mapathon"
     ],
     [
       "sitewide",
       "linkhome",
+      "Home",
       "Home"
     ],
     [
       "sitewide",
       "linkSchedule",
-      "Schedule"
+      "Schedule",
+      "スケジュール"
     ],
     [
       "sitewide",
       "linkResources",
-      "Resources"
+      "Resources",
+      "ヘルプ"
     ],
     [
       "sitewide",
       "linkExperts",
-      "Meet the Experts"
+      "Meet the Experts",
+      "マップ専門家達"
     ],
     [
       "sitewide",
       "dateRange",
-      "April 18 through April 20, 2023"
+      "April 18 through April 20, 2023",
+      "4月19日（水）、20日（木）、21日（金）"
     ],
     [
       "sitewide",
       "StartDatetime",
-      "4/18/2023 17:00:00"
+      "4/18/2023 17:00:00",
+      "4/19/2023 9:00:00"
     ],
     [
       "sitewide",
       "EndDatetime",
-      "4/20/2023 19:00:00"
+      "4/20/2023 20:00:00",
+      "4/21/2023 12:00:00"
     ],
     [
       "nav",
@@ -58,149 +66,174 @@
       "nav",
       "navSchedule",
       "Schedule",
-      "Schedule"
+      "スケジュール"
     ],
     [
       "nav",
       "navResources",
       "Resources",
-      "Resources"
+      "ヘルプ"
     ],
     [
       "nav",
       "navTeam",
       "Meet the Experts",
-      "Meet the Experts"
+      "マップ専門家達"
     ],
     [
       "nav",
       "navAbout",
       "About",
-      "About"
+      "このイベントについて"
     ],
     [
       "home",
       "pageName",
+      "Home",
       "Home"
     ],
     [
       "home",
       "pageHeader",
-      "6th Annual Humanitarian Mapathon (International Edition)"
+      "6th Annual Humanitarian Mapathon",
+      "6th Annual Humanitarian Mapathon"
     ],
     [
       "home",
       "pageSubheader",
-      "UCLA: #uclamapathon2023\u003cbr\u003eUSC: #uscmapathon2023\u003cbr\u003eMaptimeLA: #maptimelamapathon2023"
+      "UCLA: #uclamapathon2023\u003cbr\u003eUSC: #uscmapathon2023\u003cbr\u003eReitaku: #reitakumapathon2023\u003cbr\u003eMaptimeLA: #maptimelamapathon2023",
+      "UCLA: #uclamapathon2023\u003cbr\u003eUSC: #uscmapathon2023\u003cbr\u003eReitaku: #reitakumapathon2023\u003cbr\u003eMaptimeLA: #maptimelamapathon2023"
     ],
     [
       "home",
       "heroTitle",
-      "Our Goal:\u003cbr\u003eMapping 20,000 Buildings"
+      "Our Goal:\u003cbr\u003eMapping 20,000 Buildings",
+      "目標：20,000棟"
     ],
     [
       "home",
       "section1",
-      "Join Us"
+      "Join Us",
+      "参加しよう"
     ],
     [
       "home",
       "content1",
-      "UCLA, USC, and Reitaku University join forces to host the 6th Annual Humanitarian Mapathon, a free mapping competition to support the \u003ca href=\"https://www.hotosm.org/\" target=\"_blank\"\u003eHumanitarian OpenStreetMap Team (HOT)\u003c/a\u003e. Everybody is welcome to attend, whether you have any mapping experience or not! Training will be provided to ensure that you are able to participate and contribute to humanitarian causes around the world. "
+      "UCLA, USC, and Reitaku University join forces to host the 6th Annual Humanitarian Mapathon, a free mapping competition to support the \u003ca href=\"https://www.hotosm.org/\" target=\"_blank\"\u003eHumanitarian OpenStreetMap Team (HOT)\u003c/a\u003e. Everybody is welcome to attend, whether you have any mapping experience or not! Training will be provided to ensure that you are able to participate and contribute to humanitarian causes around the world. ",
+      "\u003ch2\u003eMapathon（マッパソン）とは | What is a Mapathon?\u003c/h2\u003e\n\u003cp\u003e\nMapathonとは、ボランティアのグループが、衛星画像やデジタルマッピングツールを使って、共同で地図を作っていく（マッピングする）イベントのことです。Mapathonの主な目的は、災害対応、人道支援、都市計画など様々な目的に使用できるよう、衛星画像や写真など利用して地図に載っていない地域の情報を地図として作成することです。\n\u003c/p\u003e"
     ],
     [
       "home",
       "content2",
-      "This three-day international hybrid event will include student speakers, hands-on training, donuts, prizes, and more. Join a community of humanitarian mappers, and let's all make a difference."
+      "This three-day international hybrid event will include student speakers, hands-on training, donuts, prizes, and more. Join a community of humanitarian mappers, and let's all make a difference.",
+      "\u003cp\u003e麗澤大学（日本）、UCLA、南カリフォルニア大学（USC）は、誰もが自由に作成し利用することができるオープンストリートマップ（OpenStreetMap）を通じて、人道的活動やコミュニティ開発を支援するため「６th Annual International Humanitarian Mapathon」を開催します。2023年からは麗澤大学が参加することにより、初めて国際的なイベントとして開催されることになりました。\n\u003c/p\u003e\n\u003cp\u003e\nこのイベントは、毎年アースウィーク（ 2023年4月16〜22日）の期間中に開催され、持続可能な開発目標（SDGs）に貢献する地図データを提供することに特に重点を置いて実施されてきました。\n\u003c/p\u003e\n\u003cp\u003e\n\nMapathonはマッピングの経験の有無に関わらず、だれもが参加できるイベントです。様々な関心を持つ方が、マッピングを通じて世界の人道的な活動に貢献できるよう、対面およびオンラインでのトレーニングも実施される予定です。期間中は、基調講演、学生によるライトニングトーク、ハンズオントレーニング、プレゼンテーションへの賞品、ドーナツとコーヒー、など盛りだくさんのイベントになる予定です。\n\u003c/p\u003e\n"
     ],
     [
       "home",
       "cardHeader1",
-      "Register Now!"
+      "Register Now!",
+      "今すぐ登録！"
     ],
     [
       "home",
       "cardContent1",
-      "Register and get the mapathon Zoom link."
+      "Register and get the mapathon Zoom link.",
+      "今すぐ登録してZoomリンクをゲット"
     ],
     [
       "home",
       "cardButton1",
-      "Register Now!"
+      "Register Now!",
+      "今すぐ登録！"
     ],
     [
       "home",
       "cardLink1",
-      "/"
+      "https://usc.zoom.us/meeting/register/tJYsd-urqz0pE9JcqUBzyjl2L85yqqYnqvUb",
+      "https://usc.zoom.us/meeting/register/tJYsd-urqz0pE9JcqUBzyjl2L85yqqYnqvUb"
     ],
     [
       "home",
       "cardHeader2",
-      "Agenda"
+      "Agenda",
+      "スケジュール"
     ],
     [
       "home",
       "cardContent2",
-      "The mapathon will span a 3-day period spanning April 18 to April 20. Check out the full agenda here."
+      "The mapathon will span a 3-day period spanning April 18 to April 20. Check out the full agenda here.",
+      "このイベントは、毎年アースウィーク（ 2023年4月16〜22日）の期間中に開催される。フルスケジュールはこちらを参照"
     ],
     [
       "home",
       "cardButton2",
-      "View Agenda"
+      "View Agenda",
+      "スケジュールを見る"
     ],
     [
       "home",
       "cardHeader3",
-      "Mapathon Tutorial"
+      "Mapathon Tutorial",
+      "マッパソンチュートリアル"
     ],
     [
       "home",
       "cardContent3",
+      "Follow our step-by-step tutorial and you'll be mapping in just a few minutes.",
       "Follow our step-by-step tutorial and you'll be mapping in just a few minutes."
     ],
     [
       "home",
       "cardButton3",
+      "View Tutorial",
       "View Tutorial"
     ],
     [
       "home",
       "cardHeader4",
+      "Join us on Slack!",
       "Join us on Slack!"
     ],
     [
       "home",
       "cardContent4",
+      "Join the channel to say \"Hi\", meet other mapathoners, and ask for help from our experts.",
       "Join the channel to say \"Hi\", meet other mapathoners, and ask for help from our experts."
     ],
     [
       "home",
       "cardButton4",
+      "Join the Slack Channel",
       "Join the Slack Channel"
     ],
     [
       "home",
       "cardHeader5",
+      "Leaderboard",
       "Leaderboard"
     ],
     [
       "home",
       "cardContent5",
+      "Check out the scores, but note that the leaderboard may a few hours update.",
       "Check out the scores, but note that the leaderboard may a few hours update."
     ],
     [
       "home",
       "cardButton5",
+      "View Leaderboard",
       "View Leaderboard"
     ],
     [
       "schedule",
       "pageHeader",
+      "Schedule",
       "Schedule"
     ],
     [
       "schedule",
       "day1",
+      "Day 1",
       "Day 1"
     ],
     [
@@ -218,6 +251,7 @@
     [
       "schedule",
       "day1EventDescription1",
+      "\u003cstrong\u003eWelcome\u003c/strong\u003e (15 min)\n\u003cbr\u003e- Yoh (Japan) and Andy (Mexico/USA)!",
       "\u003cstrong\u003eWelcome\u003c/strong\u003e (15 min)\n\u003cbr\u003e- Yoh (Japan) and Andy (Mexico/USA)!"
     ],
     [
@@ -229,7 +263,8 @@
     [
       "schedule",
       "day1EventDescription2",
-      "\u003cstrong\u003eKeynote\u003c/strong\u003e (30 min)\n\u003cbr\u003e\n- Taichi Furuhashi \n\u003cbr\u003e\u003cbr\u003e\nTaichi Furuhashi is passionate about mapping, connecting local communities with maps and sharing knowledge to empower people. As you know, Huge Earthquake and Tsunami destroyed a lot of cities and local communities in East Japan area in 2011. They are trying, how to make more resilient society with Mapping, Panorama/VR and Drone technology. Taichi is a professor of Aoyama Gakuin University and President of CrisisMappers Japan, NPO. Now he has started DRONEBIRD project with drones for Disaster Crisis Response."
+      "\u003cimg src=\"https://www.hotosm.org/uploads/Celine.jpg\" height=200 style=\"float: right; padding-left: 15px;\"\u003e\n\u003cstrong\u003eOpening Keynote\u003c/strong\u003e (30 min)\n\u003cbr\u003e\n- Céline Jacquin\n\u003cbr\u003e\u003cbr\u003e\n\u003cp style=\"hyphens: auto;\"\u003eI am a French geographer who has lived in Mexico City for half part of my life, as an urban studies researcher and open data and civic technology activist through OpenStreetMap and other citizen science projects focused on urban mobility, gender, and community building like Geochicas. I have participated in various open governance programs at the university, at the World Resources Institute, and in two federal scientific institutions in Mexico (CONACyT and INEGI). I am involved as much as my time allows in diversity and inclusion activities within OSM. I have been a project manager for HOT in Latin America since 2021 and am now the Senior Manager of Community Programs for Latin America.\u003c/p\u003e",
+      "\u003cstrong\u003eOpening Keynote\u003c/strong\u003e (30 min)\n\u003cbr\u003e\n\u003cimg src=\"https://www.hotosm.org/uploads/Celine.jpg\" width=300 style=\"float: right; padding-left: 15px;\"\u003e\n\u003cbr\u003e\n- Céline Jacquin\n\u003cbr\u003e\u003cbr\u003e\nI am a French geographer who has lived in Mexico City for half part of my life, as an urban studies researcher and open data and civic technology activist through OpenStreetMap and other citizen science projects focused on urban mobility, gender, and community building like Geochicas. I have participated in various open governance programs at the university, at the World Resources Institute, and in two federal scientific institutions in Mexico (CONACyT and INEGI). I am involved as much as my time allows in diversity and inclusion activities within OSM. I have been a project manager for HOT in Latin America since 2021 and am now the Senior Manager of Community Programs for Latin America."
     ],
     [
       "schedule",
@@ -240,6 +275,7 @@
     [
       "schedule",
       "day1EventDescription3",
+      "\u003cstrong\u003eIntro + Training\u003c/strong\u003e (30 min)",
       "\u003cstrong\u003eIntro + Training\u003c/strong\u003e (30 min)"
     ],
     [
@@ -251,6 +287,7 @@
     [
       "schedule",
       "day1EventDescription4",
+      "\u003cstrong\u003eMapping in-person, live Slack support\u003c/strong\u003e",
       "\u003cstrong\u003eMapping in-person, live Slack support\u003c/strong\u003e"
     ],
     [
@@ -262,11 +299,13 @@
     [
       "schedule",
       "day1EventDescription5",
+      "\u003cstrong\u003eLive events conclude for Day 1!\u003c/strong\u003e",
       "\u003cstrong\u003eLive events conclude for Day 1!\u003c/strong\u003e"
     ],
     [
       "schedule",
       "day2",
+      "Day 2",
       "Day 2"
     ],
     [
@@ -284,6 +323,7 @@
     [
       "schedule",
       "day2EventDescription1",
+      "\u003cstrong\u003eDay 2 Opening Remarks\u003c/strong\u003e (10 min)",
       "\u003cstrong\u003eDay 2 Opening Remarks\u003c/strong\u003e (10 min)"
     ],
     [
@@ -295,6 +335,7 @@
     [
       "schedule",
       "day2EventDescription2",
+      "\u003cstrong\u003eLightning Talk Marathon\u003c/strong\u003e (100 min)",
       "\u003cstrong\u003eLightning Talk Marathon\u003c/strong\u003e (100 min)"
     ],
     [
@@ -306,11 +347,13 @@
     [
       "schedule",
       "day2EventDescription3",
+      "\u003cstrong\u003eDay 2 Leaderboard Reveal and Wrap Up\u003c/strong\u003e",
       "\u003cstrong\u003eDay 2 Leaderboard Reveal and Wrap Up\u003c/strong\u003e"
     ],
     [
       "schedule",
       "day3",
+      "Day 3",
       "Day 3"
     ],
     [
@@ -328,6 +371,7 @@
     [
       "schedule",
       "day3EventDescription1",
+      "\u003cstrong\u003eDay 3 Opening Remarks\u003c/strong\u003e (15 min)",
       "\u003cstrong\u003eDay 3 Opening Remarks\u003c/strong\u003e (15 min)"
     ],
     [
@@ -339,7 +383,8 @@
     [
       "schedule",
       "day3EventDescription2",
-      "\u003cstrong\u003eClosing Keynote\u003c/strong\u003e (30 min)\n\u003cbr\u003e\n- Céline Jacquin\n\u003cbr\u003e\u003cbr\u003e\nI am a French geographer who has lived in Mexico City for half part of my life, as an urban studies researcher and open data and civic technology activist through OpenStreetMap and other citizen science projects focused on urban mobility, gender, and community building like Geochicas. I have participated in various open governance programs at the university, at the World Resources Institute, and in two federal scientific institutions in Mexico (CONACyT and INEGI). I am involved as much as my time allows in diversity and inclusion activities within OSM. I have been a project manager for HOT in Latin America since 2021 and am now the Senior Manager of Community Programs for Latin America."
+      "\u003cimg src=\"https://github.com/mapconcierge/mapconcierge/raw/master/img/taichifuruhashi_kao.jpg?raw=true\" height=200 style=\"float: right; padding-left: 15px;\"\u003e\n\u003cstrong\u003eClosing Keynote\u003c/strong\u003e (30 min)\n\u003cbr\u003e\n- Taichi Furuhashi\n\u003cbr\u003e\u003cbr\u003e\n\u003cp style=\"hyphens: auto;\"\u003e\nTaichi Furuhashi is passionate about mapping, connecting local communities with maps and sharing knowledge to empower people. As you know, Huge Earthquake and Tsunami destroyed a lot of cities and local communities in East Japan area in 2011. They are trying, how to make more resilient society with Mapping, Panorama/VR and Drone technology. Taichi is a professor of Aoyama Gakuin University and President of CrisisMappers Japan, NPO. Now he has started DRONEBIRD project with drones for Disaster Crisis Response.\u003c/p\u003e",
+      "\u003cstrong\u003eClosing Keynote\u003c/strong\u003e (30 min)\r\n\u003cbr\u003e\r\n\u003cimg src=\"https://github.com/mapconcierge/mapconcierge/raw/master/img/taichifuruhashi_kao.jpg?raw=true\" width=300 style=\"float: right; padding-left: 15px;\"\u003e\n\u003cbr\u003e\n\n- Taichi Furuhashi \n\u003cbr\u003e\u003cbr\u003e青山学院大学 地球社会共生学部 教授、マップコンシェルジュ株式会社 代表取締役社長、NPO法人クライシスマッパーズ・ジャパン理事長、東京大学空間情報科学研究センター 協力研究員、オープンストリートマップ・ファウンデーション・ジャパン/OSGeo財団日本支部所属。東京大学大学院新領域創成科学研究科修了（環境学修士）。専門は森林リモートセンシング。地理空間情報の利活用を軸に、Googleジオサービス、オープンソースGIS(FOSS4G)、オープンデータ(OpenStreetMap)の技術コンサルティングや教育指導を行なっている。ここ数年は「一億総伊能化」をキーワードにみんなで世界地図をつくるOpenStreetMapに熱を上げ、GPS、パノラマデバイス(GigaPan)、無人航空機(UAV/Drone)を駆使して、地図を作るためにフィールドを駆け巡っている。"
     ],
     [
       "schedule",
@@ -350,66 +395,79 @@
     [
       "schedule",
       "day3EventDescription3",
+      "\u003cstrong\u003eBig Reveal, Prizes, and Closing Remarks\u003c/strong\u003e",
       "\u003cstrong\u003eBig Reveal, Prizes, and Closing Remarks\u003c/strong\u003e"
     ],
     [
       "resources",
       "pageHeader",
+      "Resources",
       "Resources"
     ],
     [
       "resources",
       "section1Header",
+      "Start Here!",
       "Start Here!"
     ],
     [
       "resources",
       "section1Content",
+      "To participate in the Mapathon, you will need to create both an OSM account and a HOT OSM account.",
       "To participate in the Mapathon, you will need to create both an OSM account and a HOT OSM account."
     ],
     [
       "resources",
       "resource1",
+      "\u003ca href=\"https://www.openstreetmap.org/user/new\" target=\"_blank\"\u003eOpenStreetMap Sign Up\u003c/a\u003e",
       "\u003ca href=\"https://www.openstreetmap.org/user/new\" target=\"_blank\"\u003eOpenStreetMap Sign Up\u003c/a\u003e"
     ],
     [
       "resources",
       "resourceDescription1",
+      "Create an OSM account because it is required to use HOT OSM.",
       "Create an OSM account because it is required to use HOT OSM."
     ],
     [
       "resources",
       "resource2",
+      "\u003ca href=\"https://tasks.hotosm.org/login\" target=\"_blank\"\u003eHOT OSM Sign Up\u003c/a\u003e",
       "\u003ca href=\"https://tasks.hotosm.org/login\" target=\"_blank\"\u003eHOT OSM Sign Up\u003c/a\u003e"
     ],
     [
       "resources",
       "resourceDescription2",
+      "HOT OSM is what you will use to participate in the Mapathon by contributing to humanitarian mapping projects.",
       "HOT OSM is what you will use to participate in the Mapathon by contributing to humanitarian mapping projects."
     ],
     [
       "resources",
       "resource3",
+      "\u003ca href=\"https://tasks.hotosm.org/learn/quickstart\" target=\"_blank\"\u003eHOT OSM Quick Start Guide\u003c/a\u003e",
       "\u003ca href=\"https://tasks.hotosm.org/learn/quickstart\" target=\"_blank\"\u003eHOT OSM Quick Start Guide\u003c/a\u003e"
     ],
     [
       "resources",
       "resourceDescription3",
+      "Use this quick start guide to get going!",
       "Use this quick start guide to get going!"
     ],
     [
       "team",
       "pageHeader",
+      "Meet the Experts",
       "Meet the Experts"
     ],
     [
       "about",
       "pageHeader",
+      "About",
       "About"
     ],
     [
       "about",
       "pageContent",
+      "This Mapathon started as a joint event held by UCLA and USC for GIS Day. Below are links to the websites for past events.",
       "This Mapathon started as a joint event held by UCLA and USC for GIS Day. Below are links to the websites for past events."
     ]
   ]
