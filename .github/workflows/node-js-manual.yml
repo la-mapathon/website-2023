@@ -23,7 +23,7 @@ jobs:
     - name: Install Dependencies
       run: npm install
     - name: Download Data
-      run: npm run process-data
+      run: npm run data
     - name: Build Site
       run: npm run clean:build
     - name: Check file existence
