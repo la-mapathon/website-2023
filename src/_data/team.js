@@ -2,6 +2,14 @@ module.exports = {
 	name: "Team Members",
 	members: [
 		{
+			name: "Diana Ter-Ghazaryan",
+			blurb: "Ask me about anything at the nexus of geospatial technology, the social sciences, and the humanities!",
+			image: "",
+			affiliation: "USC",
+			status: "Student",
+			org: ""
+		},
+		{
 			name: "Richard Hinton",
 			blurb: "Ask me about YouthMappers!",
 			image: "/images/richard.png",
