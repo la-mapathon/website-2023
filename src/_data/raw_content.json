@@ -12,13 +12,11 @@
       "sitewide",
       "siteName",
       "6th Annual Humanitarian Mapathon",
-      "6th Annual Humanitarian Mapathon",
       "6th Annual Humanitarian Mapathon"
     ],
     [
       "sitewide",
       "linkhome",
-      "Home",
       "Home",
       "Home"
     ],
@@ -27,14 +25,10 @@
       "linkSchedule",
       "Schedule",
       "スケジュール"
-      "Schedule",
-      "スケジュール"
     ],
     [
       "sitewide",
       "linkResources",
-      "Resources",
-      "ヘルプ"
       "Resources",
       "ヘルプ"
     ],
@@ -43,14 +37,10 @@
       "linkExperts",
       "Meet the Experts",
       "マップ専門家達"
-      "Meet the Experts",
-      "マップ専門家達"
     ],
     [
       "sitewide",
       "dateRange",
-      "April 18 through April 20, 2023",
-      "4月19日（水）、20日（木）、21日（金）"
       "April 18 through April 20, 2023",
       "4月19日（水）、20日（木）、21日（金）"
     ],
@@ -59,14 +49,10 @@
       "StartDatetime",
       "4/18/2023 17:00:00",
       "4/19/2023 9:00:00"
-      "4/18/2023 17:00:00",
-      "4/19/2023 9:00:00"
     ],
     [
       "sitewide",
       "EndDatetime",
-      "4/20/2023 20:00:00",
-      "4/21/2023 12:00:00"
       "4/20/2023 20:00:00",
       "4/21/2023 12:00:00"
     ],
@@ -81,13 +67,11 @@
       "navSchedule",
       "Schedule",
       "スケジュール"
-      "スケジュール"
     ],
     [
       "nav",
       "navResources",
       "Resources",
-      "ヘルプ"
       "ヘルプ"
     ],
     [
@@ -95,19 +79,16 @@
       "navTeam",
       "Meet the Experts",
       "マップ専門家達"
-      "マップ専門家達"
     ],
     [
       "nav",
       "navAbout",
       "About",
       "このイベントについて"
-      "このイベントについて"
     ],
     [
       "home",
       "pageName",
-      "Home",
       "Home",
       "Home"
     ],
@@ -116,14 +97,10 @@
       "pageHeader",
       "6th Annual Humanitarian Mapathon",
       "6th Annual Humanitarian Mapathon"
-      "6th Annual Humanitarian Mapathon",
-      "6th Annual Humanitarian Mapathon"
     ],
     [
       "home",
       "pageSubheader",
-      "UCLA: #uclamapathon2023\u003cbr\u003eUSC: #uscmapathon2023\u003cbr\u003eReitaku: #reitakumapathon2023\u003cbr\u003eMaptimeLA: #maptimelamapathon2023",
-      "UCLA: #uclamapathon2023\u003cbr\u003eUSC: #uscmapathon2023\u003cbr\u003eReitaku: #reitakumapathon2023\u003cbr\u003eMaptimeLA: #maptimelamapathon2023"
       "UCLA: #uclamapathon2023\u003cbr\u003eUSC: #uscmapathon2023\u003cbr\u003eReitaku: #reitakumapathon2023\u003cbr\u003eMaptimeLA: #maptimelamapathon2023",
       "UCLA: #uclamapathon2023\u003cbr\u003eUSC: #uscmapathon2023\u003cbr\u003eReitaku: #reitakumapathon2023\u003cbr\u003eMaptimeLA: #maptimelamapathon2023"
     ],
@@ -132,14 +109,10 @@
       "heroTitle",
       "Our Goal:\u003cbr\u003eMapping 20,000 Buildings",
       "目標：20,000棟"
-      "Our Goal:\u003cbr\u003eMapping 20,000 Buildings",
-      "目標：20,000棟"
     ],
     [
       "home",
       "section1",
-      "Join Us",
-      "参加しよう"
       "Join Us",
       "参加しよう"
     ],
@@ -148,14 +121,10 @@
       "content1",
       "UCLA, USC, and Reitaku University join forces to host the 6th Annual Humanitarian Mapathon, a free mapping competition to support the \u003ca href=\"https://www.hotosm.org/\" target=\"_blank\"\u003eHumanitarian OpenStreetMap Team (HOT)\u003c/a\u003e. Everybody is welcome to attend, whether you have any mapping experience or not! Training will be provided to ensure that you are able to participate and contribute to humanitarian causes around the world. ",
       "\u003ch2\u003eMapathon（マッパソン）とは | What is a Mapathon?\u003c/h2\u003e\n\u003cp\u003e\nMapathonとは、ボランティアのグループが、衛星画像やデジタルマッピングツールを使って、共同で地図を作っていく（マッピングする）イベントのことです。Mapathonの主な目的は、災害対応、人道支援、都市計画など様々な目的に使用できるよう、衛星画像や写真など利用して地図に載っていない地域の情報を地図として作成することです。\n\u003c/p\u003e"
-      "UCLA, USC, and Reitaku University join forces to host the 6th Annual Humanitarian Mapathon, a free mapping competition to support the \u003ca href=\"https://www.hotosm.org/\" target=\"_blank\"\u003eHumanitarian OpenStreetMap Team (HOT)\u003c/a\u003e. Everybody is welcome to attend, whether you have any mapping experience or not! Training will be provided to ensure that you are able to participate and contribute to humanitarian causes around the world. ",
-      "\u003ch2\u003eMapathon（マッパソン）とは | What is a Mapathon?\u003c/h2\u003e\n\u003cp\u003e\nMapathonとは、ボランティアのグループが、衛星画像やデジタルマッピングツールを使って、共同で地図を作っていく（マッピングする）イベントのことです。Mapathonの主な目的は、災害対応、人道支援、都市計画など様々な目的に使用できるよう、衛星画像や写真など利用して地図に載っていない地域の情報を地図として作成することです。\n\u003c/p\u003e"
     ],
     [
       "home",
       "content2",
-      "This three-day international hybrid event will include student speakers, hands-on training, donuts, prizes, and more. Join a community of humanitarian mappers, and let's all make a difference.",
-      "\u003cp\u003e麗澤大学（日本）、UCLA、南カリフォルニア大学（USC）は、誰もが自由に作成し利用することができるオープンストリートマップ（OpenStreetMap）を通じて、人道的活動やコミュニティ開発を支援するため「６th Annual International Humanitarian Mapathon」を開催します。2023年からは麗澤大学が参加することにより、初めて国際的なイベントとして開催されることになりました。\n\u003c/p\u003e\n\u003cp\u003e\nこのイベントは、毎年アースウィーク（ 2023年4月16〜22日）の期間中に開催され、持続可能な開発目標（SDGs）に貢献する地図データを提供することに特に重点を置いて実施されてきました。\n\u003c/p\u003e\n\u003cp\u003e\n\nMapathonはマッピングの経験の有無に関わらず、だれもが参加できるイベントです。様々な関心を持つ方が、マッピングを通じて世界の人道的な活動に貢献できるよう、対面およびオンラインでのトレーニングも実施される予定です。期間中は、基調講演、学生によるライトニングトーク、ハンズオントレーニング、プレゼンテーションへの賞品、ドーナツとコーヒー、など盛りだくさんのイベントになる予定です。\n\u003c/p\u003e\n"
       "This three-day international hybrid event will include student speakers, hands-on training, donuts, prizes, and more. Join a community of humanitarian mappers, and let's all make a difference.",
       "\u003cp\u003e麗澤大学（日本）、UCLA、南カリフォルニア大学（USC）は、誰もが自由に作成し利用することができるオープンストリートマップ（OpenStreetMap）を通じて、人道的活動やコミュニティ開発を支援するため「６th Annual International Humanitarian Mapathon」を開催します。2023年からは麗澤大学が参加することにより、初めて国際的なイベントとして開催されることになりました。\n\u003c/p\u003e\n\u003cp\u003e\nこのイベントは、毎年アースウィーク（ 2023年4月16〜22日）の期間中に開催され、持続可能な開発目標（SDGs）に貢献する地図データを提供することに特に重点を置いて実施されてきました。\n\u003c/p\u003e\n\u003cp\u003e\n\nMapathonはマッピングの経験の有無に関わらず、だれもが参加できるイベントです。様々な関心を持つ方が、マッピングを通じて世界の人道的な活動に貢献できるよう、対面およびオンラインでのトレーニングも実施される予定です。期間中は、基調講演、学生によるライトニングトーク、ハンズオントレーニング、プレゼンテーションへの賞品、ドーナツとコーヒー、など盛りだくさんのイベントになる予定です。\n\u003c/p\u003e\n"
     ],
@@ -164,22 +133,16 @@
       "cardHeader1",
       "Register Now!",
       "今すぐ登録！"
-      "Register Now!",
-      "今すぐ登録！"
     ],
     [
       "home",
       "cardContent1",
       "Register and get the mapathon Zoom link.",
       "今すぐ登録してZoomリンクをゲット"
-      "Register and get the mapathon Zoom link.",
-      "今すぐ登録してZoomリンクをゲット"
     ],
     [
       "home",
       "cardButton1",
-      "Register Now!",
-      "今すぐ登録！"
       "Register Now!",
       "今すぐ登録！"
     ],
@@ -194,14 +157,10 @@
       "cardHeader2",
       "Agenda",
       "スケジュール"
-      "Agenda",
-      "スケジュール"
     ],
     [
       "home",
       "cardContent2",
-      "The mapathon will span a 3-day period spanning April 18 to April 20. Check out the full agenda here.",
-      "このイベントは、毎年アースウィーク（ 2023年4月16〜22日）の期間中に開催される。フルスケジュールはこちらを参照"
       "The mapathon will span a 3-day period spanning April 18 to April 20. Check out the full agenda here.",
       "このイベントは、毎年アースウィーク（ 2023年4月16〜22日）の期間中に開催される。フルスケジュールはこちらを参照"
     ],
@@ -210,14 +169,10 @@
       "cardButton2",
       "View Agenda",
       "スケジュールを見る"
-      "View Agenda",
-      "スケジュールを見る"
     ],
     [
       "home",
       "cardHeader3",
-      "Mapathon Tutorial",
-      "マッパソンチュートリアル"
       "Mapathon Tutorial",
       "マッパソンチュートリアル"
     ],
@@ -225,13 +180,11 @@
       "home",
       "cardContent3",
       "Follow our step-by-step tutorial and you'll be mapping in just a few minutes.",
-      "Follow our step-by-step tutorial and you'll be mapping in just a few minutes.",
       "Follow our step-by-step tutorial and you'll be mapping in just a few minutes."
     ],
     [
       "home",
       "cardButton3",
-      "View Tutorial",
       "View Tutorial",
       "View Tutorial"
     ],
@@ -239,13 +192,11 @@
       "home",
       "cardHeader4",
       "Join us on Slack!",
-      "Join us on Slack!",
       "Join us on Slack!"
     ],
     [
       "home",
       "cardContent4",
-      "Join the channel to say \"Hi\", meet other mapathoners, and ask for help from our experts.",
       "Join the channel to say \"Hi\", meet other mapathoners, and ask for help from our experts.",
       "Join the channel to say \"Hi\", meet other mapathoners, and ask for help from our experts."
     ],
@@ -253,13 +204,11 @@
       "home",
       "cardButton4",
       "Join the Slack Channel",
-      "Join the Slack Channel",
       "Join the Slack Channel"
     ],
     [
       "home",
       "cardHeader5",
-      "Leaderboard",
       "Leaderboard",
       "Leaderboard"
     ],
@@ -267,13 +216,11 @@
       "home",
       "cardContent5",
       "Check out the scores, but note that the leaderboard may a few hours update.",
-      "Check out the scores, but note that the leaderboard may a few hours update.",
       "Check out the scores, but note that the leaderboard may a few hours update."
     ],
     [
       "home",
       "cardButton5",
-      "View Leaderboard",
       "View Leaderboard",
       "View Leaderboard"
     ],
@@ -281,13 +228,11 @@
       "schedule",
       "pageHeader",
       "Schedule",
-      "Schedule",
       "Schedule"
     ],
     [
       "schedule",
       "day1",
-      "Day 1",
       "Day 1",
       "Day 1"
     ],
@@ -306,7 +251,6 @@
     [
       "schedule",
       "day1EventDescription1",
-      "\u003cstrong\u003eWelcome\u003c/strong\u003e (15 min)\n\u003cbr\u003e- Yoh (Japan) and Andy (Mexico/USA)!",
       "\u003cstrong\u003eWelcome\u003c/strong\u003e (15 min)\n\u003cbr\u003e- Yoh (Japan) and Andy (Mexico/USA)!",
       "\u003cstrong\u003eWelcome\u003c/strong\u003e (15 min)\n\u003cbr\u003e- Yoh (Japan) and Andy (Mexico/USA)!"
     ],
@@ -332,7 +276,6 @@
       "schedule",
       "day1EventDescription3",
       "\u003cstrong\u003eIntro + Training\u003c/strong\u003e (30 min)",
-      "\u003cstrong\u003eIntro + Training\u003c/strong\u003e (30 min)",
       "\u003cstrong\u003eIntro + Training\u003c/strong\u003e (30 min)"
     ],
     [
@@ -344,7 +287,6 @@
     [
       "schedule",
       "day1EventDescription4",
-      "\u003cstrong\u003eMapping in-person, live Slack support\u003c/strong\u003e",
       "\u003cstrong\u003eMapping in-person, live Slack support\u003c/strong\u003e",
       "\u003cstrong\u003eMapping in-person, live Slack support\u003c/strong\u003e"
     ],
@@ -358,13 +300,11 @@
       "schedule",
       "day1EventDescription5",
       "\u003cstrong\u003eLive events conclude for Day 1!\u003c/strong\u003e",
-      "\u003cstrong\u003eLive events conclude for Day 1!\u003c/strong\u003e",
       "\u003cstrong\u003eLive events conclude for Day 1!\u003c/strong\u003e"
     ],
     [
       "schedule",
       "day2",
-      "Day 2",
       "Day 2",
       "Day 2"
     ],
@@ -384,7 +324,6 @@
       "schedule",
       "day2EventDescription1",
       "\u003cstrong\u003eDay 2 Opening Remarks\u003c/strong\u003e (10 min)",
-      "\u003cstrong\u003eDay 2 Opening Remarks\u003c/strong\u003e (10 min)",
       "\u003cstrong\u003eDay 2 Opening Remarks\u003c/strong\u003e (10 min)"
     ],
     [
@@ -396,7 +335,6 @@
     [
       "schedule",
       "day2EventDescription2",
-      "\u003cstrong\u003eLightning Talk Marathon\u003c/strong\u003e (100 min)",
       "\u003cstrong\u003eLightning Talk Marathon\u003c/strong\u003e (100 min)",
       "\u003cstrong\u003eLightning Talk Marathon\u003c/strong\u003e (100 min)"
     ],
@@ -410,13 +348,11 @@
       "schedule",
       "day2EventDescription3",
       "\u003cstrong\u003eDay 2 Leaderboard Reveal and Wrap Up\u003c/strong\u003e",
-      "\u003cstrong\u003eDay 2 Leaderboard Reveal and Wrap Up\u003c/strong\u003e",
       "\u003cstrong\u003eDay 2 Leaderboard Reveal and Wrap Up\u003c/strong\u003e"
     ],
     [
       "schedule",
       "day3",
-      "Day 3",
       "Day 3",
       "Day 3"
     ],
@@ -435,7 +371,6 @@
     [
       "schedule",
       "day3EventDescription1",
-      "\u003cstrong\u003eDay 3 Opening Remarks\u003c/strong\u003e (15 min)",
       "\u003cstrong\u003eDay 3 Opening Remarks\u003c/strong\u003e (15 min)",
       "\u003cstrong\u003eDay 3 Opening Remarks\u003c/strong\u003e (15 min)"
     ],
@@ -461,13 +396,11 @@
       "schedule",
       "day3EventDescription3",
       "\u003cstrong\u003eBig Reveal, Prizes, and Closing Remarks\u003c/strong\u003e",
-      "\u003cstrong\u003eBig Reveal, Prizes, and Closing Remarks\u003c/strong\u003e",
       "\u003cstrong\u003eBig Reveal, Prizes, and Closing Remarks\u003c/strong\u003e"
     ],
     [
       "resources",
       "pageHeader",
-      "Resources",
       "Resources",
       "Resources"
     ],
@@ -475,13 +408,11 @@
       "resources",
       "section1Header",
       "Start Here!",
-      "Start Here!",
       "Start Here!"
     ],
     [
       "resources",
       "section1Content",
-      "To participate in the Mapathon, you will need to create both an OSM account and a HOT OSM account.",
       "To participate in the Mapathon, you will need to create both an OSM account and a HOT OSM account.",
       "To participate in the Mapathon, you will need to create both an OSM account and a HOT OSM account."
     ],
@@ -489,13 +420,11 @@
       "resources",
       "resource1",
       "\u003ca href=\"https://www.openstreetmap.org/user/new\" target=\"_blank\"\u003eOpenStreetMap Sign Up\u003c/a\u003e",
-      "\u003ca href=\"https://www.openstreetmap.org/user/new\" target=\"_blank\"\u003eOpenStreetMap Sign Up\u003c/a\u003e",
       "\u003ca href=\"https://www.openstreetmap.org/user/new\" target=\"_blank\"\u003eOpenStreetMap Sign Up\u003c/a\u003e"
     ],
     [
       "resources",
       "resourceDescription1",
-      "Create an OSM account because it is required to use HOT OSM.",
       "Create an OSM account because it is required to use HOT OSM.",
       "Create an OSM account because it is required to use HOT OSM."
     ],
@@ -503,13 +432,11 @@
       "resources",
       "resource2",
       "\u003ca href=\"https://tasks.hotosm.org/login\" target=\"_blank\"\u003eHOT OSM Sign Up\u003c/a\u003e",
-      "\u003ca href=\"https://tasks.hotosm.org/login\" target=\"_blank\"\u003eHOT OSM Sign Up\u003c/a\u003e",
       "\u003ca href=\"https://tasks.hotosm.org/login\" target=\"_blank\"\u003eHOT OSM Sign Up\u003c/a\u003e"
     ],
     [
       "resources",
       "resourceDescription2",
-      "HOT OSM is what you will use to participate in the Mapathon by contributing to humanitarian mapping projects.",
       "HOT OSM is what you will use to participate in the Mapathon by contributing to humanitarian mapping projects.",
       "HOT OSM is what you will use to participate in the Mapathon by contributing to humanitarian mapping projects."
     ],
@@ -517,13 +444,11 @@
       "resources",
       "resource3",
       "\u003ca href=\"https://tasks.hotosm.org/learn/quickstart\" target=\"_blank\"\u003eHOT OSM Quick Start Guide\u003c/a\u003e",
-      "\u003ca href=\"https://tasks.hotosm.org/learn/quickstart\" target=\"_blank\"\u003eHOT OSM Quick Start Guide\u003c/a\u003e",
       "\u003ca href=\"https://tasks.hotosm.org/learn/quickstart\" target=\"_blank\"\u003eHOT OSM Quick Start Guide\u003c/a\u003e"
     ],
     [
       "resources",
       "resourceDescription3",
-      "Use this quick start guide to get going!",
       "Use this quick start guide to get going!",
       "Use this quick start guide to get going!"
     ],
@@ -531,20 +456,17 @@
       "team",
       "pageHeader",
       "Meet the Experts",
-      "Meet the Experts",
       "Meet the Experts"
     ],
     [
       "about",
       "pageHeader",
       "About",
-      "About",
       "About"
     ],
     [
       "about",
       "pageContent",
-      "This Mapathon started as a joint event held by UCLA and USC for GIS Day. Below are links to the websites for past events.",
       "This Mapathon started as a joint event held by UCLA and USC for GIS Day. Below are links to the websites for past events.",
       "This Mapathon started as a joint event held by UCLA and USC for GIS Day. Below are links to the websites for past events."
     ]
