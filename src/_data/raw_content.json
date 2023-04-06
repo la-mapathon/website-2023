@@ -443,34 +443,38 @@
     [
       "resources",
       "resource3",
+      "\u003ca href=\"https://slides.com/arutkows/battleofthemaps\" target=\"_blank\"\u003eMapathon Tutorial (Slides)\u003c/a\u003e",
+      "\u003ca href=\"https://slides.com/arutkows/battleofthemaps\" target=\"_blank\"\u003eMapathon Tutorial (Slides)\u003c/a\u003e"
+    ],
+    [
+      "resources",
+      "resourceDescription3",
+      "Use these tutorial slides to follow along with the presentation.",
+      "Use these tutorial slides to follow along with the presentation."
+    ],
+    [
+      "resources",
+      "resource4",
+      "\u003ca href=\"https://docs.google.com/document/d/1a8_jU8pRYjeaVuKwbh34wpNoBo6hjZ3aULFW2938CBI/edit?usp=sharing\" target=\"_blank\"\u003eMapathon Quick Guide (Printout)\u003c/a\u003e",
+      "\u003ca href=\"https://docs.google.com/document/d/1a8_jU8pRYjeaVuKwbh34wpNoBo6hjZ3aULFW2938CBI/edit?usp=sharing\" target=\"_blank\"\u003eMapathon Quick Guide (Printout)\u003c/a\u003e"
+    ],
+    [
+      "resources",
+      "resourceDescription4",
+      "Use this Google Doc to print out a quick guide.",
+      "Use this Google Doc to print out a quick guide."
+    ],
+    [
+      "resources",
+      "resource5",
       "\u003ca href=\"https://tasks.hotosm.org/learn/quickstart\" target=\"_blank\"\u003eHOT OSM Quick Start Guide\u003c/a\u003e",
       "\u003ca href=\"https://tasks.hotosm.org/learn/quickstart\" target=\"_blank\"\u003eHOT OSM Quick Start Guide\u003c/a\u003e"
     ],
     [
       "resources",
-      "resourceDescription3",
+      "resourceDescription5",
       "Use this quick start guide to get going!",
       "Use this quick start guide to get going!"
-    ],
-    [
-      "resources",
-      "resource4",
-      "\u003ca href=\"https://slides.com/arutkows/battleofthemaps\" target=\"_blank\"\u003eMapathon Tutorial (Slides)\u003c/a\u003e"
-    ],
-    [
-      "resources",
-      "resourceDescription4",
-      "Use these tutorial slides to follow along with the presentation."
-    ],
-    [
-      "resources",
-      "resource5",
-      "\u003ca href=\"https://docs.google.com/document/d/1a8_jU8pRYjeaVuKwbh34wpNoBo6hjZ3aULFW2938CBI/edit?usp=sharing\" target=\"_blank\"\u003eMapathon Quick Guide (Printout)\u003c/a\u003e"
-    ],
-    [
-      "resources",
-      "resourceDescription5",
-      "Use this Google Doc to print out a quick guide."
     ],
     [
       "team",
