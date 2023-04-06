@@ -35,8 +35,8 @@
     [
       "sitewide",
       "linkExperts",
-      "Meet the Experts",
-      "マップ専門家達"
+      "Meet the Mappers",
+      "マッパーズの皆さん"
     ],
     [
       "sitewide",
@@ -77,8 +77,8 @@
     [
       "nav",
       "navTeam",
-      "Meet the Experts",
-      "マップ専門家達"
+      "Meet the Mappers",
+      "マッパーズの皆さん"
     ],
     [
       "nav",
@@ -101,8 +101,8 @@
     [
       "home",
       "pageSubheader",
-      "UCLA: #uclamapathon2023\u003cbr\u003eUSC: #uscmapathon2023\u003cbr\u003eReitaku: #reitakumapathon2023\u003cbr\u003eMaptimeLA: #maptimelamapathon2023",
-      "UCLA: #uclamapathon2023\u003cbr\u003eUSC: #uscmapathon2023\u003cbr\u003eReitaku: #reitakumapathon2023\u003cbr\u003eMaptimeLA: #maptimelamapathon2023"
+      "UCLA: #uclamapathon2023\u003cbr\u003eUSC: #uscmapathon2023\u003cbr\u003eReitaku: #reitakumapathon2023\u003cbr\u003eFAU: #faumapathon2023\u003cbr\u003eMaptimeLA: #maptimelamapathon2023",
+      "UCLA: #uclamapathon2023\u003cbr\u003eUSC: #uscmapathon2023\u003cbr\u003eReitaku: #reitakumapathon2023\u003cbr\u003eFAU: #faumapathon2023\u003cbr\u003eMaptimeLA: #maptimelamapathon2023"
     ],
     [
       "home",
@@ -245,8 +245,8 @@
     [
       "schedule",
       "day1EventTime1",
-      "🇺🇸 5:00 PM   🇯🇵9:00 AM ",
-      "🇺🇸 5:00 PM 🇯🇵9:00 AM"
+      "5:00 PM (PT)",
+      "9:00 AM"
     ],
     [
       "schedule",
@@ -257,8 +257,8 @@
     [
       "schedule",
       "day1EventTime2",
-      "🇺🇸 5:15 PM 🇯🇵9:15 AM",
-      "🇺🇸 5:15 PM 🇯🇵9:15 AM"
+      "5:15 PM (PT)",
+      "9:15 AM"
     ],
     [
       "schedule",
@@ -269,7 +269,7 @@
     [
       "schedule",
       "day1EventTime3",
-      "6:00 PM",
+      "6:00 PM (PT)",
       "10:00 AM"
     ],
     [
@@ -281,7 +281,7 @@
     [
       "schedule",
       "day1EventTime4",
-      "6:30 PM",
+      "6:30 PM (PT)",
       "10:30 AM"
     ],
     [
@@ -293,7 +293,7 @@
     [
       "schedule",
       "day1EventTime5",
-      "8:00 PM",
+      "8:00 PM (PT)",
       "12:00 PM"
     ],
     [
@@ -317,7 +317,7 @@
     [
       "schedule",
       "day2EventTime1",
-      "5:00 PM",
+      "5:00 PM (PT)",
       "9:00 AM"
     ],
     [
@@ -329,7 +329,7 @@
     [
       "schedule",
       "day2EventTime2",
-      "5:10 PM",
+      "5:10PM (PT)",
       "9:10 AM"
     ],
     [
@@ -341,7 +341,7 @@
     [
       "schedule",
       "day2EventTime3",
-      "6:50 PM",
+      "6:50 PM (PT)",
       "10:50 AM"
     ],
     [
@@ -365,7 +365,7 @@
     [
       "schedule",
       "day3EventTime1",
-      "5:00 PM",
+      "5:00 PM (PT)",
       "9:00 AM"
     ],
     [
@@ -377,7 +377,7 @@
     [
       "schedule",
       "day3EventTime2",
-      "5:15 PM",
+      "5:15 PM (PT)",
       "9:15 AM"
     ],
     [
@@ -389,7 +389,7 @@
     [
       "schedule",
       "day3EventTime3",
-      "6:00 PM",
+      "6:00 PM (PT)",
       "10:00 AM"
     ],
     [
