@@ -1,5 +1,5 @@
 {
-  "range": "Sheet1!A1:D1008",
+  "range": "Sheet1!A1:D1012",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -453,10 +453,30 @@
       "Use this quick start guide to get going!"
     ],
     [
+      "resources",
+      "resource4",
+      "\u003ca href=\"https://slides.com/arutkows/battleofthemaps\" target=\"_blank\"\u003eMapathon Tutorial (Slides)\u003c/a\u003e"
+    ],
+    [
+      "resources",
+      "resourceDescription4",
+      "Use these tutorial slides to follow along with the presentation."
+    ],
+    [
+      "resources",
+      "resource5",
+      "\u003ca href=\"https://docs.google.com/document/d/1a8_jU8pRYjeaVuKwbh34wpNoBo6hjZ3aULFW2938CBI/edit?usp=sharing\" target=\"_blank\"\u003eMapathon Quick Guide (Printout)\u003c/a\u003e"
+    ],
+    [
+      "resources",
+      "resourceDescription5",
+      "Use this Google Doc to print out a quick guide."
+    ],
+    [
       "team",
       "pageHeader",
-      "Meet the Experts",
-      "Meet the Experts"
+      "Meet the Mappers",
+      "マッパーズの皆さん"
     ],
     [
       "about",
