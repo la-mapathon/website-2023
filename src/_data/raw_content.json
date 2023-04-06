@@ -180,49 +180,49 @@
       "home",
       "cardContent3",
       "Follow our step-by-step tutorial and you'll be mapping in just a few minutes.",
-      "Follow our step-by-step tutorial and you'll be mapping in just a few minutes."
+      "ステップバイステップのチュートリアルで、わずか数分でマッピングを始めよう！"
     ],
     [
       "home",
       "cardButton3",
       "View Tutorial",
-      "View Tutorial"
+      "チュートリアルを見る"
     ],
     [
       "home",
       "cardHeader4",
       "Join us on Slack!",
-      "Join us on Slack!"
+      "Slack に参加しましょう！"
     ],
     [
       "home",
       "cardContent4",
       "Join the channel to say \"Hi\", meet other mapathoners, and ask for help from our experts.",
-      "Join the channel to say \"Hi\", meet other mapathoners, and ask for help from our experts."
+      "チャンネルに参加して「Hi!」と言ったり、他の地図愛好家に会ったり、専門家に助けを求めたりしてください。"
     ],
     [
       "home",
       "cardButton4",
       "Join the Slack Channel",
-      "Join the Slack Channel"
+      "Slack チャンネルに参加する"
     ],
     [
       "home",
       "cardHeader5",
       "Leaderboard",
-      "Leaderboard"
+      "リーダーボード"
     ],
     [
       "home",
       "cardContent5",
       "Check out the scores, but note that the leaderboard may a few hours update.",
-      "Check out the scores, but note that the leaderboard may a few hours update."
+      "スコアを確認してください。ただし、リーダーボードは数時間更新される場合があることに注意してください。"
     ],
     [
       "home",
       "cardButton5",
       "View Leaderboard",
-      "View Leaderboard"
+      "ランキングを見る"
     ],
     [
       "schedule",
@@ -240,7 +240,7 @@
       "schedule",
       "date1",
       "Tuesday, April 18, 2023",
-      "Wednesday, April 19, 2023"
+      "水曜日　4/19/2023"
     ],
     [
       "schedule",
@@ -252,7 +252,7 @@
       "schedule",
       "day1EventDescription1",
       "\u003cstrong\u003eWelcome\u003c/strong\u003e (15 min)\n\u003cbr\u003e- Yoh (Japan) and Andy (Mexico/USA)!",
-      "\u003cstrong\u003eWelcome\u003c/strong\u003e (15 min)\n\u003cbr\u003e- Yoh (Japan) and Andy (Mexico/USA)!"
+      "\u003cstrong\u003eWelcome\u003c/strong\u003e (15 min)\n\u003cbr\u003e- Yoh (Japan) and Andy (Mexico/USA)"
     ],
     [
       "schedule",
@@ -264,7 +264,7 @@
       "schedule",
       "day1EventDescription2",
       "\u003cimg src=\"https://www.hotosm.org/uploads/Celine.jpg\" width=300 \u003e\n\u003cbr\u003e\n- Céline Jacquin\n\u003cbr\u003e\u003cbr\u003e\n\u003cp style=\"hyphens: auto;\"\u003eI am a French geographer who has lived in Mexico City for half part of my life, as an urban studies researcher and open data and civic technology activist through OpenStreetMap and other citizen science projects focused on urban mobility, gender, and community building like Geochicas. I have participated in various open governance programs at the university, at the World Resources Institute, and in two federal scientific institutions in Mexico (CONACyT and INEGI). I am involved as much as my time allows in diversity and inclusion activities within OSM. I have been a project manager for HOT in Latin America since 2021 and am now the Senior Manager of Community Programs for Latin America.\u003c/p\u003e",
-      "\u003cimg src=\"https://www.hotosm.org/uploads/Celine.jpg\" width=300 \u003e\n\u003cbr\u003e\n- Céline Jacquin\n\u003cbr\u003e\u003cbr\u003e\n\u003cp style=\"hyphens: auto;\"\u003eI am a French geographer who has lived in Mexico City for half part of my life, as an urban studies researcher and open data and civic technology activist through OpenStreetMap and other citizen science projects focused on urban mobility, gender, and community building like Geochicas. I have participated in various open governance programs at the university, at the World Resources Institute, and in two federal scientific institutions in Mexico (CONACyT and INEGI). I am involved as much as my time allows in diversity and inclusion activities within OSM. I have been a project manager for HOT in Latin America since 2021 and am now the Senior Manager of Community Programs for Latin America.\u003c/p\u003e"
+      "\u003cimg src=\"https://www.hotosm.org/uploads/Celine.jpg\" width=300 \u003e\n\u003cbr\u003e\n- Céline Jacquin\n\u003cbr\u003e\u003cbr\u003e\n\u003cp style=\"hyphens: auto;\"\u003e私は人生の半分をメキシコシティに住んでいるフランス人地理学者であり、都市研究の研究者であり、OpenStreetMap や、都市の流動性、ジェンダー、Geochicas のようなコミュニティ構築に焦点を当てた他の市民科学プロジェクトを通じて、オープンデータと市民技術の活動家として活動しています。 私は、大学、世界資源研究所、およびメキシコの 2 つの連邦科学機関 (CONACyT と INEGI) で、さまざまなオープン ガバナンス プログラムに参加してきました。 私は OSM 内のダイバーシティとインクルージョンの活動に時間の許す限り関わっています。 私は 2021 年からラテン アメリカの HOT のプロジェクト マネージャーを務めており、現在はラテン アメリカのコミュニティ プログラムのシニア マネージャーを務めています。\u003c/p\u003e"
     ],
     [
       "schedule",
@@ -275,8 +275,8 @@
     [
       "schedule",
       "day1EventDescription3",
-      "\u003cstrong\u003eIntro + Training\u003c/strong\u003e (30 min)",
-      "\u003cstrong\u003eIntro + Training\u003c/strong\u003e (30 min)"
+      "\u003cstrong\u003eTraining Workshop\u003c/strong\u003e\u003cbr\u003eMapping on Open Street Map",
+      "\u003cstrong\u003eワークショップ\u003c/strong\u003e\u003cbr\u003eOSMでマッピングを始めよう"
     ],
     [
       "schedule",
@@ -288,7 +288,7 @@
       "schedule",
       "day1EventDescription4",
       "\u003cstrong\u003eMapping in-person, live Slack support\u003c/strong\u003e",
-      "\u003cstrong\u003eMapping in-person, live Slack support\u003c/strong\u003e"
+      "\u003cstrong\u003eiFloorでマッパソン実行\u003c/strong\u003e\u003cbr\u003eSlackでライブサポート"
     ],
     [
       "schedule",
@@ -300,7 +300,7 @@
       "schedule",
       "day1EventDescription5",
       "\u003cstrong\u003eLive events conclude for Day 1!\u003c/strong\u003e",
-      "\u003cstrong\u003eLive events conclude for Day 1!\u003c/strong\u003e"
+      "\u003cstrong\u003eライブイベント終了、引き続きiFloorで\u003c/strong\u003e"
     ],
     [
       "schedule",
@@ -312,7 +312,7 @@
       "schedule",
       "date2",
       "Wednesday, April 19, 2023",
-      "Thursday, April 20, 2023"
+      "木曜日　4/20/2023"
     ],
     [
       "schedule",
@@ -323,8 +323,8 @@
     [
       "schedule",
       "day2EventDescription1",
-      "\u003cstrong\u003eDay 2 Opening Remarks\u003c/strong\u003e (10 min)",
-      "\u003cstrong\u003eDay 2 Opening Remarks\u003c/strong\u003e (10 min)"
+      "\u003cstrong\u003eDay 2 Opening Remarks\u003c/strong\u003e ",
+      "\u003cstrong\u003e2日目 開会の挨拶\u003c/strong\u003e "
     ],
     [
       "schedule",
@@ -335,8 +335,8 @@
     [
       "schedule",
       "day2EventDescription2",
-      "\u003cstrong\u003eLightning Talk Marathon\u003c/strong\u003e (100 min)",
-      "\u003cstrong\u003eLightning Talk Marathon\u003c/strong\u003e (100 min)"
+      "\u003cstrong\u003eLightning Talk Marathon\u003c/strong\u003e ",
+      "\u003cstrong\u003eライトニングトークマラソン\u003c/strong\u003e "
     ],
     [
       "schedule",
@@ -348,7 +348,7 @@
       "schedule",
       "day2EventDescription3",
       "\u003cstrong\u003eDay 2 Leaderboard Reveal and Wrap Up\u003c/strong\u003e",
-      "\u003cstrong\u003eDay 2 Leaderboard Reveal and Wrap Up\u003c/strong\u003e"
+      "\u003cstrong\u003e2 日目リーダーボードの発表とまとめ\u003c/strong\u003e"
     ],
     [
       "schedule",
@@ -360,7 +360,7 @@
       "schedule",
       "date3",
       "Thursday, April 20, 2023",
-      "Friday, April 21, 2023"
+      "金曜日　4/21/2023"
     ],
     [
       "schedule",
@@ -371,8 +371,8 @@
     [
       "schedule",
       "day3EventDescription1",
-      "\u003cstrong\u003eDay 3 Opening Remarks\u003c/strong\u003e (15 min)",
-      "\u003cstrong\u003eDay 3 Opening Remarks\u003c/strong\u003e (15 min)"
+      "\u003cstrong\u003eDay 3 Opening Remarks\u003c/strong\u003e ",
+      "\u003cstrong\u003e3日目 開会の挨拶\u003c/strong\u003e "
     ],
     [
       "schedule",
@@ -396,25 +396,25 @@
       "schedule",
       "day3EventDescription3",
       "\u003cstrong\u003eBig Reveal, Prizes, and Closing Remarks\u003c/strong\u003e",
-      "\u003cstrong\u003eBig Reveal, Prizes, and Closing Remarks\u003c/strong\u003e"
+      "\u003cstrong\u003e大公開、賞品、閉会の辞\u003c/strong\u003e"
     ],
     [
       "resources",
       "pageHeader",
       "Resources",
-      "Resources"
+      "ヘルプ"
     ],
     [
       "resources",
       "section1Header",
       "Start Here!",
-      "Start Here!"
+      "ここから始めよう！"
     ],
     [
       "resources",
       "section1Content",
       "To participate in the Mapathon, you will need to create both an OSM account and a HOT OSM account.",
-      "To participate in the Mapathon, you will need to create both an OSM account and a HOT OSM account."
+      "Mapathon に参加するには、OSM アカウントと HOT OSM アカウントの両方を作成する必要があります。"
     ],
     [
       "resources",
@@ -426,7 +426,7 @@
       "resources",
       "resourceDescription1",
       "Create an OSM account because it is required to use HOT OSM.",
-      "Create an OSM account because it is required to use HOT OSM."
+      "HOT OSMを利用するために必要なOSMアカウントを作成します。"
     ],
     [
       "resources",
@@ -438,43 +438,43 @@
       "resources",
       "resourceDescription2",
       "HOT OSM is what you will use to participate in the Mapathon by contributing to humanitarian mapping projects.",
-      "HOT OSM is what you will use to participate in the Mapathon by contributing to humanitarian mapping projects."
+      "HOT OSM は、人道的マッピング プロジェクトに貢献することで、マパソンに参加するために使用するものです。"
     ],
     [
       "resources",
       "resource3",
       "\u003ca href=\"https://slides.com/arutkows/battleofthemaps\" target=\"_blank\"\u003eMapathon Tutorial (Slides)\u003c/a\u003e",
-      "\u003ca href=\"https://slides.com/arutkows/battleofthemaps\" target=\"_blank\"\u003eMapathon Tutorial (Slides)\u003c/a\u003e"
+      "\u003ca href=\"https://slides.com/arutkows/battleofthemaps\" target=\"_blank\"\u003eMapathon チュートリアル (スライド)\u003c/a\u003e"
     ],
     [
       "resources",
       "resourceDescription3",
       "Use these tutorial slides to follow along with the presentation.",
-      "Use these tutorial slides to follow along with the presentation."
+      "これらのチュートリアル スライドを使用して、プレゼンテーションを進めてください。"
     ],
     [
       "resources",
       "resource4",
       "\u003ca href=\"https://docs.google.com/document/d/1a8_jU8pRYjeaVuKwbh34wpNoBo6hjZ3aULFW2938CBI/edit?usp=sharing\" target=\"_blank\"\u003eMapathon Quick Guide (Printout)\u003c/a\u003e",
-      "\u003ca href=\"https://docs.google.com/document/d/1a8_jU8pRYjeaVuKwbh34wpNoBo6hjZ3aULFW2938CBI/edit?usp=sharing\" target=\"_blank\"\u003eMapathon Quick Guide (Printout)\u003c/a\u003e"
+      "\u003ca href=\"https://docs.google.com/document/d/1a8_jU8pRYjeaVuKwbh34wpNoBo6hjZ3aULFW2938CBI/edit?usp=sharing\" target=\"_blank\"\u003eMapathon クイック ガイド (印刷物)\u003c/a\u003e"
     ],
     [
       "resources",
       "resourceDescription4",
       "Use this Google Doc to print out a quick guide.",
-      "Use this Google Doc to print out a quick guide."
+      "この Google ドキュメントを使用して、クイック ガイドを印刷してください。"
     ],
     [
       "resources",
       "resource5",
       "\u003ca href=\"https://tasks.hotosm.org/learn/quickstart\" target=\"_blank\"\u003eHOT OSM Quick Start Guide\u003c/a\u003e",
-      "\u003ca href=\"https://tasks.hotosm.org/learn/quickstart\" target=\"_blank\"\u003eHOT OSM Quick Start Guide\u003c/a\u003e"
+      "\u003ca href=\"https://tasks.hotosm.org/learn/quickstart\" target=\"_blank\"\u003eHOT OSM クイックスタートガイド\u003c/a\u003e"
     ],
     [
       "resources",
       "resourceDescription5",
       "Use this quick start guide to get going!",
-      "Use this quick start guide to get going!"
+      "このクイック スタート ガイドを使用して作業を開始してください。"
     ],
     [
       "team",
@@ -492,7 +492,7 @@
       "about",
       "pageContent",
       "This Mapathon started as a joint event held by UCLA and USC for GIS Day. Below are links to the websites for past events.",
-      "This Mapathon started as a joint event held by UCLA and USC for GIS Day. Below are links to the websites for past events."
+      "このマパソンは、UCLA と USC が GIS Day のために開催した合同イベントとして始まりました。 以下は、過去のイベントのウェブサイトへのリンクです。"
     ]
   ]
 }
