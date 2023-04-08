@@ -1,5 +1,5 @@
 {
-  "range": "Sheet1!A1:D1012",
+  "range": "Sheet1!A1:D1110",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -481,6 +481,572 @@
       "pageHeader",
       "Meet the Mappers",
       "マッパーズの皆さん"
+    ],
+    [
+      "team",
+      "section1Header",
+      "Presenters",
+      "Presenters"
+    ],
+    [
+      "team",
+      "section1Name1",
+      "Céline Jacquin",
+      "Céline Jacquin"
+    ],
+    [
+      "team",
+      "section1Photo1",
+      "celine_jacquin.png",
+      "celine_jacquin.png"
+    ],
+    [
+      "team",
+      "section1Description1",
+      "I am a French geographer who has lived in Mexico City for half part of my life, as an urban studies researcher and open data and civic technology activist through OpenStreetMap and other citizen science projects focused on urban mobility, gender, and community building like Geochicas. I have participated in various open governance programs at the university, at the World Resources Institute, and in two federal scientific institutions in Mexico (CONACyT and INEGI). I am involved as much as my time allows in diversity and inclusion activities within OSM. I have been a project manager for HOT in Latin America since 2021 and am now the Senior Manager of Community Programs for Latin America.",
+      "I am a French geographer who has lived in Mexico City for half part of my life, as an urban studies researcher and open data and civic technology activist through OpenStreetMap and other citizen science projects focused on urban mobility, gender, and community building like Geochicas. I have participated in various open governance programs at the university, at the World Resources Institute, and in two federal scientific institutions in Mexico (CONACyT and INEGI). I am involved as much as my time allows in diversity and inclusion activities within OSM. I have been a project manager for HOT in Latin America since 2021 and am now the Senior Manager of Community Programs for Latin America."
+    ],
+    [
+      "team",
+      "section1Affiliation1",
+      "hotosm",
+      "hotosm"
+    ],
+    [
+      "team",
+      "section1Name2",
+      "Taichi Furuhashi",
+      "Taichi Furuhashi"
+    ],
+    [
+      "team",
+      "section1Photo2",
+      "taichi_furuhashi.png",
+      "taichi_furuhashi.png"
+    ],
+    [
+      "team",
+      "section1Description2",
+      "Taichi Furuhashi is passionate about mapping, connecting local communities with maps and sharing knowledge to empower people. As you know, Huge Earthquake and Tsunami destroyed a lot of cities and local communities in East Japan area in 2011. They are trying, how to make more resilient society with Mapping, Panorama/VR and Drone technology. Taichi is a professor of Aoyama Gakuin University and President of CrisisMappers Japan, NPO. Now he has started DRONEBIRD project with drones for Disaster Crisis Response.",
+      "Taichi Furuhashi is passionate about mapping, connecting local communities with maps and sharing knowledge to empower people. As you know, Huge Earthquake and Tsunami destroyed a lot of cities and local communities in East Japan area in 2011. They are trying, how to make more resilient society with Mapping, Panorama/VR and Drone technology. Taichi is a professor of Aoyama Gakuin University and President of CrisisMappers Japan, NPO. Now he has started DRONEBIRD project with drones for Disaster Crisis Response."
+    ],
+    [
+      "team",
+      "section1Affiliation2",
+      "hotosm",
+      "hotosm"
+    ],
+    [
+      "team",
+      "section1Name3",
+      "Dr. Daniel Schorlemmer",
+      "Dr. Daniel Schorlemmer"
+    ],
+    [
+      "team",
+      "section1Photo3"
+    ],
+    [
+      "team",
+      "section1Description3",
+      "\u003cem\u003eComing soon...\u003c/em\u003e",
+      "\u003cem\u003eComing soon...\u003c/em\u003e"
+    ],
+    [
+      "team",
+      "section1Affiliation3",
+      "hotosm",
+      "hotosm"
+    ],
+    [
+      "team",
+      "section1Name4",
+      "Kelly Kwok",
+      "Kelly Kwok"
+    ],
+    [
+      "team",
+      "section1Photo4"
+    ],
+    [
+      "team",
+      "section1Description4",
+      "\u003cem\u003eComing soon...\u003c/em\u003e",
+      "\u003cem\u003eComing soon...\u003c/em\u003e"
+    ],
+    [
+      "team",
+      "section1Affiliation4",
+      "usc",
+      "usc"
+    ],
+    [
+      "team",
+      "section1Name5",
+      "Omar Ureta",
+      "Omar Ureta"
+    ],
+    [
+      "team",
+      "section1Photo5"
+    ],
+    [
+      "team",
+      "section1Description5",
+      "\u003cem\u003eComing soon...\u003c/em\u003e",
+      "\u003cem\u003eComing soon...\u003c/em\u003e"
+    ],
+    [
+      "team",
+      "section1Affiliation5",
+      "maptime",
+      "maptime"
+    ],
+    [
+      "team",
+      "section1Name6",
+      "Nina Kin",
+      "Nina Kin"
+    ],
+    [
+      "team",
+      "section1Photo6"
+    ],
+    [
+      "team",
+      "section1Description6",
+      "\u003cem\u003eComing soon...\u003c/em\u003e",
+      "\u003cem\u003eComing soon...\u003c/em\u003e"
+    ],
+    [
+      "team",
+      "section1Affiliation6",
+      "metro",
+      "metro"
+    ],
+    [
+      "team",
+      "section2Header",
+      "Organizers",
+      "Organizers"
+    ],
+    [
+      "team",
+      "section2Name1",
+      "Diana Ter-Ghazaryan",
+      "Diana Ter-Ghazaryan"
+    ],
+    [
+      "team",
+      "section2Photo1",
+      "diana.jpg",
+      "diana.jpg"
+    ],
+    [
+      "team",
+      "section2Description1",
+      "Self-proclaimed map geek, passionate about all things at the nexus of geospatial technology, the social sciences and the humanities.",
+      "Self-proclaimed map geek, passionate about all things at the nexus of geospatial technology, the social sciences and the humanities."
+    ],
+    [
+      "team",
+      "section2Affiliation1",
+      "usc",
+      "usc"
+    ],
+    [
+      "team",
+      "section2Name2",
+      "Andy Rutkowski",
+      "Andy Rutkowski"
+    ],
+    [
+      "team",
+      "section2Photo2",
+      "andy.png",
+      "andy.png"
+    ],
+    [
+      "team",
+      "section2Description2",
+      "Ask me about cartography!",
+      "Ask me about cartography!"
+    ],
+    [
+      "team",
+      "section2Affiliation2",
+      "usc",
+      "usc"
+    ],
+    [
+      "team",
+      "section2Name3",
+      "Elizabeth Sedano",
+      "Elizabeth Sedano"
+    ],
+    [
+      "team",
+      "section2Photo3",
+      "lisa.png",
+      "lisa.png"
+    ],
+    [
+      "team",
+      "section2Description3",
+      "Ask me about OSM!",
+      "Ask me about OSM!"
+    ],
+    [
+      "team",
+      "section2Affiliation3",
+      "usc",
+      "usc"
+    ],
+    [
+      "team",
+      "section2Name4",
+      "Laura Loyola",
+      "Laura Loyola"
+    ],
+    [
+      "team",
+      "section2Photo4",
+      "laura.png",
+      "laura.png"
+    ],
+    [
+      "team",
+      "section2Description4",
+      "Ask me about environmental GIS!",
+      "Ask me about environmental GIS!"
+    ],
+    [
+      "team",
+      "section2Affiliation4",
+      "usc",
+      "usc"
+    ],
+    [
+      "team",
+      "section2Name5",
+      "Eva Shafman",
+      "Eva Shafman"
+    ],
+    [
+      "team",
+      "section2Photo5"
+    ],
+    [
+      "team",
+      "section2Description5",
+      "Ask me about SC Mappers!",
+      "Ask me about SC Mappers!"
+    ],
+    [
+      "team",
+      "section2Affiliation5",
+      "usc",
+      "usc"
+    ],
+    [
+      "team",
+      "section2Name6",
+      "Yoh Kawano",
+      "Yoh Kawano"
+    ],
+    [
+      "team",
+      "section2Photo6",
+      "yoh.jpeg",
+      "yoh.jpeg"
+    ],
+    [
+      "team",
+      "section2Description6",
+      "Ask me about spatial data science!",
+      "Ask me about spatial data science!"
+    ],
+    [
+      "team",
+      "section2Affiliation6",
+      "reitaku",
+      "reitaku"
+    ],
+    [
+      "team",
+      "section2Name7",
+      "James Walker",
+      "James Walker"
+    ],
+    [
+      "team",
+      "section2Photo7",
+      "james.png",
+      "james.png"
+    ],
+    [
+      "team",
+      "section2Description7",
+      "Ask me about Humanitarian GIS!",
+      "Ask me about Humanitarian GIS!"
+    ],
+    [
+      "team",
+      "section2Affiliation7",
+      "fau",
+      "fau"
+    ],
+    [
+      "team",
+      "section2Name8",
+      "Zhiyuan Yao",
+      "Zhiyuan Yao"
+    ],
+    [
+      "team",
+      "section2Photo8",
+      "zhiyuan.png",
+      "zhiyuan.png"
+    ],
+    [
+      "team",
+      "section2Description8",
+      "Ask me about QGIS!",
+      "Ask me about QGIS!"
+    ],
+    [
+      "team",
+      "section2Affiliation8",
+      "ucla",
+      "ucla"
+    ],
+    [
+      "team",
+      "section2Name9",
+      "Ayumi Arai",
+      "Ayumi Arai"
+    ],
+    [
+      "team",
+      "section2Photo9"
+    ],
+    [
+      "team",
+      "section2Description9",
+      "\u003cem\u003eComing soon...\u003c/em\u003e",
+      "\u003cem\u003eComing soon...\u003c/em\u003e"
+    ],
+    [
+      "team",
+      "section2Affiliation9",
+      "reitaku",
+      "reitaku"
+    ],
+    [
+      "team",
+      "section2Name10",
+      "Dairon Caro",
+      "Dairon Caro"
+    ],
+    [
+      "team",
+      "section2Photo10"
+    ],
+    [
+      "team",
+      "section2Description10",
+      "\u003cem\u003eComing soon...\u003c/em\u003e",
+      "\u003cem\u003eComing soon...\u003c/em\u003e"
+    ],
+    [
+      "team",
+      "section2Affiliation10",
+      "usc",
+      "usc"
+    ],
+    [
+      "team",
+      "section2Name11",
+      "Albert Kochaphum",
+      "Albert Kochaphum"
+    ],
+    [
+      "team",
+      "section2Photo11"
+    ],
+    [
+      "team",
+      "section2Description11",
+      "\u003cem\u003eComing soon...\u003c/em\u003e",
+      "\u003cem\u003eComing soon...\u003c/em\u003e"
+    ],
+    [
+      "team",
+      "section2Affiliation11",
+      "metro",
+      "metro"
+    ],
+    [
+      "team",
+      "section2Name12",
+      "Gillian Bailey",
+      "Gillian Bailey"
+    ],
+    [
+      "team",
+      "section2Photo12"
+    ],
+    [
+      "team",
+      "section2Description12",
+      "\u003cem\u003eComing soon...\u003c/em\u003e",
+      "\u003cem\u003eComing soon...\u003c/em\u003e"
+    ],
+    [
+      "team",
+      "section2Affiliation12",
+      "ucla",
+      "ucla"
+    ],
+    [
+      "team",
+      "section2Name13",
+      "Jamie Jamison",
+      "Jamie Jamison"
+    ],
+    [
+      "team",
+      "section2Photo13"
+    ],
+    [
+      "team",
+      "section2Description13",
+      "\u003cem\u003eComing soon...\u003c/em\u003e",
+      "\u003cem\u003eComing soon...\u003c/em\u003e"
+    ],
+    [
+      "team",
+      "section2Affiliation13",
+      "ucla",
+      "ucla"
+    ],
+    [
+      "team",
+      "section2Name14",
+      "Ryan Horne",
+      "Ryan Horne"
+    ],
+    [
+      "team",
+      "section2Photo14"
+    ],
+    [
+      "team",
+      "section2Description14",
+      "\u003cem\u003eComing soon...\u003c/em\u003e",
+      "\u003cem\u003eComing soon...\u003c/em\u003e"
+    ],
+    [
+      "team",
+      "section2Affiliation14",
+      "ucla",
+      "ucla"
+    ],
+    [
+      "team",
+      "section2Name15",
+      "Blake Walker",
+      "Blake Walker"
+    ],
+    [
+      "team",
+      "section2Photo15",
+      "blake_walker.jpg",
+      "blake_walker.jpg"
+    ],
+    [
+      "team",
+      "section2Description15",
+      "Ask me about GIS/QGIS!",
+      "Ask me about GIS/QGIS!"
+    ],
+    [
+      "team",
+      "section2Affiliation15",
+      "fau",
+      "fau"
+    ],
+    [
+      "team",
+      "section2Name16",
+      "Dominik Kremer",
+      "Dominik Kremer"
+    ],
+    [
+      "team",
+      "section2Photo16",
+      "dominik_kremer.jpg",
+      "dominik_kremer.jpg"
+    ],
+    [
+      "team",
+      "section2Description16",
+      "Ask me about geospatial technologies in the humanities and social sciences!",
+      "Ask me about geospatial technologies in the humanities and social sciences!"
+    ],
+    [
+      "team",
+      "section2Affiliation16",
+      "fau",
+      "fau"
+    ],
+    [
+      "team",
+      "section2Name17",
+      "Finn Dammann",
+      "Finn Dammann"
+    ],
+    [
+      "team",
+      "section2Photo17",
+      "finn_dammann.jpg",
+      "finn_dammann.jpg"
+    ],
+    [
+      "team",
+      "section2Description17",
+      "Ask me about OSM and GIS!",
+      "Ask me about OSM and GIS!"
+    ],
+    [
+      "team",
+      "section2Affiliation17",
+      "fau",
+      "fau"
+    ],
+    [
+      "team",
+      "section2Name18",
+      "Georg Glasze",
+      "Georg Glasze"
+    ],
+    [
+      "team",
+      "section2Photo18",
+      "georg_glasze.jpg",
+      "georg_glasze.jpg"
+    ],
+    [
+      "team",
+      "section2Description18",
+      "Ask me about critical cartography and the intersections of mapping and political geography!",
+      "Ask me about critical cartography and the intersections of mapping and political geography!"
+    ],
+    [
+      "team",
+      "section2Affiliation18",
+      "fau",
+      "fau"
     ],
     [
       "about",

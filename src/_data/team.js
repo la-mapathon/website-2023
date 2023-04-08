@@ -9,70 +9,14 @@ module.exports = {
 			status: "Student",
 			org: ""
 		},
-		// {
-		// 	name: "Richard Hinton",
-		// 	blurb: "Ask me about YouthMappers!",
-		// 	image: "/images/richard.png",
-		// 	affiliation: "USC",
-		// 	status: "Student",
-		// 	org: "SC Mappers"
-		// },
-		// {
-		// 	name: "Bowen Wang",
-		// 	blurb: "Ask me about climate change!",
-		// 	image: "/images/bowen.jpeg",
-		// 	affiliation: "UCLA",
-		// 	status: "Student",
-		// 	org: "Geographer's Association"
-		// },
-		// {
-		// 	name: "Vivian Jade Yee",
-		// 	blurb: "Ask me about the UCLA Geographer's Association!",
-		// 	image: "/images/vivian.png",
-		// 	affiliation: "UCLA",
-		// 	status: "Student",
-		// 	org: "Geographer's Association"
-		// },
-		// {
-		// 	name: "Heather Chou",
-		// 	blurb: "Ask me about the UCLA Geographer's Association!",
-		// 	image: "https://uclageographyassociation268883444.files.wordpress.com/2020/11/img_6256-1.jpg?w=300",
-		// 	affiliation: "UCLA",
-		// 	status: "Student",
-		// 	org: "Geographer's Association"
-		// },
-		// {
-		// 	name: "Cerys Edwards",
-		// 	blurb: "Ask me about the UCLA Library's map collection!",
-		// 	image: "/images/cerys.png",
-		// 	affiliation: "UCLA",
-		// 	status: "Student",
-		// 	org: "UCLA Library"
-		// },
-		// {
-		// 	name: "Will Foote",
-		// 	blurb: "Ask me about statistics (and all things Wordle)!",
-		// 	image: "/images/will.png",
-		// 	affiliation: "UCLA",
-		// 	status: "Student",
-		// 	org: "UCLA Library"
-		// },
 		{
-			name: "Will Forker, Sophie Beck, Eva Shafman",
+			name: "Eva Shafman, Kelly Kwok",
 			blurb: "Ask us about SC Mappers!",
 			image: "/images/will.jpeg",
 			affiliation: "USC",
 			status: "Student",
 			org: "SC Mappers"
 		},
-		// {
-		// 	name: "Ethan Allavarpu",
-		// 	blurb: "Ask me about data science and machine learning!",
-		// 	image: "/images/ethan.jpeg",
-		// 	affiliation: "UCLA",
-		// 	status: "Student",
-		// 	org: "Library"
-		// },
 		{
 			name: "Andy Rutkowski",
 			blurb: "Ask me about cartography!",
@@ -105,14 +49,6 @@ module.exports = {
 			status: "Staff",
 			org: "Office of Advanced Research Computing"
 		},
-		// {
-		// 	name: "Zoe Borovsky",
-		// 	blurb: "Ask me about OSM!",
-		// 	image: "/images/zoe.png",
-		// 	affiliation: "UCLA",
-		// 	status: "Staff",
-		// 	org: "Library"
-		// },
 		{
 			name: "James Walker",
 			blurb: "Ask me about Humanitarian GIS!",
@@ -145,5 +81,29 @@ module.exports = {
 			status: "",
 			org: ""
 		},
+		{
+			name: "Taichi Furuhashi",
+			blurb: "",
+			image: "",
+			affiliation: "",
+			status: "",
+			org: ""
+		},
+		{
+			name: "Céline Jacquin",
+			blurb: "",
+			image: "",
+			affiliation: "",
+			status: "",
+			org: ""
+		},
+		{
+			name: "Omar Ureta",
+			blurb: "",
+			image: "",
+			affiliation: "",
+			status: "",
+			org: ""
+		}
 	]
 };
