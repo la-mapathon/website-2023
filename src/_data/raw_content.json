@@ -539,18 +539,20 @@
     [
       "team",
       "section1Name3",
-      "Dr. Daniel Schorlemmer",
-      "Dr. Daniel Schorlemmer"
+      "Dr. Danijel Schorlemmer",
+      "Dr. Danijel Schorlemmer"
     ],
     [
       "team",
-      "section1Photo3"
+      "section1Photo3",
+      "danijel.png",
+      "danijel.png"
     ],
     [
       "team",
       "section1Description3",
-      "\u003cem\u003eComing soon...\u003c/em\u003e",
-      "\u003cem\u003eComing soon...\u003c/em\u003e"
+      "I’m a seismologist working at the GFZ German Research Centre for Geosciences. My working fields include seismic networks, earthquake hazard and risk and the building of a global multi-hazard exposure model describing each building’s vulnerability to different hazards.",
+      "I’m a seismologist working at the GFZ German Research Centre for Geosciences. My working fields include seismic networks, earthquake hazard and risk and the building of a global multi-hazard exposure model describing each building’s vulnerability to different hazards."
     ],
     [
       "team",
@@ -561,7 +563,7 @@
     [
       "team",
       "section1Name4",
-      "Kelly Kwok",
+      "",
       "Kelly Kwok"
     ],
     [
