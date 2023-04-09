@@ -58,32 +58,62 @@
     </button>
     <div class="collapse navbar-collapse" id="mainNav">
       <div class="navbar-nav ms-auto text-end">
-        <a class="nav-link" href="/ja/">Home</a>
-        <a class="nav-link" href="/ja/schedule/">スケジュール</a>
-        <a class="nav-link" href="/ja/resources/">ヘルプ</a>
-        <a class="nav-link" href="/ja/team/">マッパーズの皆さん</a>
-        <a class="nav-link" href="/ja/about/">このイベントについて</a>
-        <div class="dropdown">
-          <a
-            class="btn btn-secondary dropdown-toggle"
-            href="#"
-            role="button"
-            data-bs-toggle="dropdown"
-            aria-expanded="false">
-            Language
-          </a>
-
-          <ul class="dropdown-menu">
-
-            
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="/ja/">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/ja/schedule/">スケジュール</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/ja/resources/">ヘルプ</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a
+              class="nav-link dropdown-toggle"
+              href="/ja/team/"
+              role="button"
+              data-bs-toggle="dropdown">マッパーズの皆さん</a>
+            <ul class="dropdown-menu text-end">
               <li>
-                <a
-                  class="dropdown-item"
-                  href="/en/team/"
-                  lang="en"
-                  hreflang="en">English</a>
-              </li></ul>
-        </div>
+                <a class="dropdown-item" href="/ja/team/#section-1">
+                  Presenters
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="/ja/team/#section-2">
+                  Organizers
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/ja/about/">このイベントについて</a>
+          </li>
+          <li class="nav-item">
+            <div class="dropdown">
+              <a
+                class="btn btn-secondary dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false">
+                Language
+              </a>
+
+              <ul class="dropdown-menu text-end">
+
+                
+                  <li>
+                    <a
+                      class="dropdown-item"
+                      href="/en/team/"
+                      lang="en"
+                      hreflang="en">English</a>
+                  </li></ul>
+            </div>
+          </li>
+        </ul>
       </div>
     </div>
   </div>
@@ -97,7 +127,7 @@
 <div class="container">
   <h1 class="display-5 my-5 fw-bold center-text">マッパーズの皆さん</h1>
 
-  <h2>Presenters</h2>
+  <h2 id="section-1">Presenters</h2>
   <div class="row">
     <div class="col-lg-4 col-sm-6">
 
@@ -226,7 +256,7 @@
     </div>
   </div>
 
-  <h2>Organizers</h2>
+  <h2 id="section-2">Organizers</h2>
 
   <div class="row">
     <div class="col-lg-4 col-sm-6">
