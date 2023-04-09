@@ -23,7 +23,35 @@ layout: default
     </div>
   </div>
 
-  <h2 class="display-5 mt-5">{{ source.schedule.day1 }}</h2>
+  <div class="my-5">
+    <strong>View for:</strong>
+    <div class="dropdown">
+      <a
+        class="btn btn-outline-secondary dropdown-toggle"
+        href="#"
+        role="button"
+        data-bs-toggle="dropdown"
+        aria-expanded="false">
+        Language
+      </a>
+
+      <ul class="dropdown-menu dropdown-menu-start text-start">
+
+        {% assign links = page.url | locale_links %}
+        {%- for link in links %}
+          <li>
+            <a
+              class="dropdown-item"
+              href="{{ link.url }}"
+              lang="{{ link.lang }}"
+              hreflang="{{ link.lang }}">{{ link.label }}</a>
+          </li>
+        {%- endfor -%}
+      </ul>
+    </div>
+  </div>
+
+  <h2 class="display-5">{{ source.schedule.day1 }}</h2>
   <h3>{{ source.schedule.date1 }}</h3>
   <div class="row mt-4">
     <div class="col-2 text-end">
