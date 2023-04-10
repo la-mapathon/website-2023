@@ -1,5 +1,5 @@
 {
-  "range": "Sheet1!A1:D1110",
+  "range": "Sheet1!A1:D1114",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -172,6 +172,12 @@
     ],
     [
       "home",
+      "cardLink2",
+      "schedule",
+      "schedule"
+    ],
+    [
+      "home",
       "cardHeader3",
       "Mapathon Tutorial",
       "マッパソンチュートリアル"
@@ -185,8 +191,14 @@
     [
       "home",
       "cardButton3",
-      "View Tutorial",
+      "View Resources",
       "チュートリアルを見る"
+    ],
+    [
+      "home",
+      "cardLink3",
+      "resources",
+      "resources"
     ],
     [
       "home",
@@ -208,6 +220,12 @@
     ],
     [
       "home",
+      "cardLink4",
+      "https://join.slack.com/t/2022lamapathon/shared_invite/zt-157jxyuev-Iuwv9oAkSEmi_1OFs7Mmgg",
+      "https://join.slack.com/t/2022lamapathon/shared_invite/zt-157jxyuev-Iuwv9oAkSEmi_1OFs7Mmgg"
+    ],
+    [
+      "home",
       "cardHeader5",
       "Leaderboard",
       "リーダーボード"
@@ -223,6 +241,12 @@
       "cardButton5",
       "View Leaderboard",
       "ランキングを見る"
+    ],
+    [
+      "home",
+      "cardLink5",
+      "https://www.missingmaps.org/leaderboards/#/uclamapathon2023,uscmapathon2023,reitakumapathon2023,faumapathon2023,maptimelamapathon2023",
+      "https://www.missingmaps.org/leaderboards/#/uclamapathon2023,uscmapathon2023,reitakumapathon2023,faumapathon2023,maptimelamapathon2023"
     ],
     [
       "schedule",

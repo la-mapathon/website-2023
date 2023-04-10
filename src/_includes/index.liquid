@@ -60,7 +60,7 @@ layout: default
         </div>
         <div class="card-body d-flex flex-column justify-content-between">
           <p class="card-text">{{ source.home.cardContent2 }}</p>
-          <a href="{{ '/schedule/' | url: page.lang }}" class="btn btn-outline-primary">{{ source.home.cardButton2 }}</a>
+          <a href="{{ '/' | append: source.home.cardLink2 | url: page.lang }}" class="btn btn-outline-primary">{{ source.home.cardButton2 }}</a>
         </div>
       </div>
     </div>
@@ -71,7 +71,7 @@ layout: default
         </div>
         <div class="card-body d-flex flex-column justify-content-between">
           <p class="card-text">{{ source.home.cardContent3 }}</p>
-          <a href="{{ '/resources/' | url: page.lang }}" class="btn btn-outline-primary">{{ source.home.cardButton3 }}</a>
+          <a href="{{ '/' | append: source.home.cardLink3 | url: page.lang }}" class="btn btn-outline-primary">{{ source.home.cardButton3 }}</a>
         </div>
       </div>
     </div>
@@ -83,7 +83,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-between">
           <p class="card-text">{{ source.home.cardContent4 }}</p>
           <a
-            href="https://join.slack.com/t/2022lamapathon/shared_invite/zt-157jxyuev-Iuwv9oAkSEmi_1OFs7Mmgg"
+            href="{{ source.home.cardLink4 }}"
             target="_blank"
             class="btn btn-outline-primary">{{ source.home.cardButton4 }}</a>
         </div>
@@ -96,7 +96,10 @@ layout: default
         </div>
         <div class="card-body d-flex flex-column justify-content-between">
           <p class="card-text">{{ source.home.cardContent5 }}</p>
-          <a href="https://www.missingmaps.org/leaderboards/#/uclamapathon2023,uscmapathon2023,maptimelamapathon2023" class="btn btn-outline-primary">{{ source.home.cardButton5 }}</a>
+          <a
+            href="{{ source.home.cardLink5 }}"
+            target="_blank"
+            class="btn btn-outline-primary">{{ source.home.cardButton5 }}</a>
         </div>
       </div>
     </div>
