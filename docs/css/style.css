@@ -1,1 +1,21 @@
+.schedule {
+    border-spacing: 15px 0px;
+    border-collapse: separate;
+}
 
+.day-start {
+    border-left: solid 2px black;
+    border-right: solid 2px black;
+    border-top: solid 2px black;
+}
+
+.day-time {
+    border-left: solid 2px black;
+    border-right: solid 2px black;
+}
+
+.day-end {
+    border-left: solid 2px black;
+    border-right: solid 2px black;
+    border-bottom: solid 2px black !important;
+}
