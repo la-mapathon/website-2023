@@ -19,3 +19,7 @@
     border-right: solid 2px black;
     border-bottom: solid 2px black !important;
 }
+
+.schedule img.flag {
+    width: 30px;
+}

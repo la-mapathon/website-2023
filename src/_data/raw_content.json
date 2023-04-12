@@ -1,5 +1,5 @@
 {
-  "range": "Sheet1!A1:D1114",
+  "range": "Sheet1!A1:D1182",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -256,9 +256,417 @@
     ],
     [
       "schedule",
-      "day1",
-      "Day 1",
-      "Day 1"
+      "scheduleLabelUS",
+      "US (PT)",
+      "US (PT)"
+    ],
+    [
+      "schedule",
+      "scheduleLabelGermany",
+      "Germany (CEST)",
+      "Germany (CEST)"
+    ],
+    [
+      "schedule",
+      "scheduleLabelJapan",
+      "Japan (JPT)",
+      "Japan (JPT)"
+    ],
+    [
+      "schedule",
+      "USDay1",
+      "April 18",
+      "April 18"
+    ],
+    [
+      "schedule",
+      "USDay2",
+      "April 19",
+      "April 19"
+    ],
+    [
+      "schedule",
+      "USDay3",
+      "April 20",
+      "April 20"
+    ],
+    [
+      "schedule",
+      "notUSDay1",
+      "April 19",
+      "April 19"
+    ],
+    [
+      "schedule",
+      "notUSDay2",
+      "April 20",
+      "April 20"
+    ],
+    [
+      "schedule",
+      "notUSDay3",
+      "April 21",
+      "April 21"
+    ],
+    [
+      "schedule",
+      "event1TimeUS",
+      "17:00",
+      "17:00"
+    ],
+    [
+      "schedule",
+      "event1TimeGermany",
+      "2:00",
+      "2:00"
+    ],
+    [
+      "schedule",
+      "event1TimeJapan",
+      "9:00",
+      "9:00"
+    ],
+    [
+      "schedule",
+      "event1Description",
+      "\u003cstrong\u003eDay 1 - Welcome\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e\n\u003cbr\u003e- Yoh (Japan) and Andy (Mexico/USA)!",
+      "\u003cstrong\u003eDay 1 - Welcome\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e\n\u003cbr\u003e- Yoh (Japan) and Andy (Mexico/USA)!"
+    ],
+    [
+      "schedule",
+      "event2TimeUS",
+      "17:15",
+      "17:15"
+    ],
+    [
+      "schedule",
+      "event2TimeGermany",
+      "2:15",
+      "2:15"
+    ],
+    [
+      "schedule",
+      "event2TimeJapan",
+      "9:15",
+      "9:15"
+    ],
+    [
+      "schedule",
+      "event2Description",
+      "\u003cstrong\u003eOpening Keynote\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e\u003cbr\u003e\n\u003cimg src=\"/images/celine_jacquin.png\" style=\"width: 100%; max-width: 300px;\"\u003e\n\u003cbr\u003e\u003cbr\u003e\n- Céline Jacquin\n\u003cbr\u003e\u003cbr\u003e\n\u003cp style=\"hyphens: auto;\"\u003eI am a French geographer who has lived in Mexico City for half part of my life, as an urban studies researcher and open data and civic technology activist through OpenStreetMap and other citizen science projects focused on urban mobility, gender, and community building like Geochicas. I have participated in various open governance programs at the university, at the World Resources Institute, and in two federal scientific institutions in Mexico (CONACyT and INEGI). I am involved as much as my time allows in diversity and inclusion activities within OSM. I have been a project manager for HOT in Latin America since 2021 and am now the Senior Manager of Community Programs for Latin America.\u003c/p\u003e",
+      "\u003cstrong\u003eOpening Keynote\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e\u003cbr\u003e\n\u003cimg src=\"/images/celine_jacquin.png\" style=\"width: 100%; max-width: 300px;\"\u003e\n\u003cbr\u003e\u003cbr\u003e\n- Céline Jacquin\n\u003cbr\u003e\u003cbr\u003e\n\u003cp style=\"hyphens: auto;\"\u003eI am a French geographer who has lived in Mexico City for half part of my life, as an urban studies researcher and open data and civic technology activist through OpenStreetMap and other citizen science projects focused on urban mobility, gender, and community building like Geochicas. I have participated in various open governance programs at the university, at the World Resources Institute, and in two federal scientific institutions in Mexico (CONACyT and INEGI). I am involved as much as my time allows in diversity and inclusion activities within OSM. I have been a project manager for HOT in Latin America since 2021 and am now the Senior Manager of Community Programs for Latin America.\u003c/p\u003e"
+    ],
+    [
+      "schedule",
+      "event3TimeUS",
+      "18:00",
+      "18:00"
+    ],
+    [
+      "schedule",
+      "event3TimeGermany",
+      "3:00",
+      "3:00"
+    ],
+    [
+      "schedule",
+      "event3TimeJapan",
+      "10:00",
+      "10:00"
+    ],
+    [
+      "schedule",
+      "event3Description",
+      "\u003cstrong\u003eTraining Workshop\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e\u003cbr\u003e\r\nMapping on Open Street Map",
+      "\u003cstrong\u003eTraining Workshop\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e\u003cbr\u003e\r\nMapping on Open Street Map"
+    ],
+    [
+      "schedule",
+      "event4TimeUS",
+      "18:30",
+      "18:30"
+    ],
+    [
+      "schedule",
+      "event4TimeGermany",
+      "3:30",
+      "3:30"
+    ],
+    [
+      "schedule",
+      "event4TimeJapan",
+      "10:30",
+      "10:30"
+    ],
+    [
+      "schedule",
+      "event4Description",
+      "\u003cstrong\u003eMapping in-person, live Slack support\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e",
+      "\u003cstrong\u003eMapping in-person, live Slack support\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e"
+    ],
+    [
+      "schedule",
+      "event5TimeUS",
+      "20:00",
+      "20:00"
+    ],
+    [
+      "schedule",
+      "event5TimeGermany",
+      "5:00",
+      "5:00"
+    ],
+    [
+      "schedule",
+      "event5TimeJapan",
+      "12:00",
+      "12:00"
+    ],
+    [
+      "schedule",
+      "event5Description",
+      "\u003cstrong\u003eLive events conclude for Day 1!\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e",
+      "\u003cstrong\u003eLive events conclude for Day 1!\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e"
+    ],
+    [
+      "schedule",
+      "event6TimeUS",
+      "3:30",
+      "3:30"
+    ],
+    [
+      "schedule",
+      "event6TimeGermany",
+      "12:30",
+      "12:30"
+    ],
+    [
+      "schedule",
+      "event6TimeJapan",
+      "19:30",
+      "19:30"
+    ],
+    [
+      "schedule",
+      "event6Description",
+      "\u003cstrong\u003eWelcome!\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"Germany\" src=\"/images/flag-germany_1f1e9-1f1ea.png\"\u003e\u003cbr\u003e\r\n- Professor Walker, Professor Glasze",
+      "\u003cstrong\u003eWelcome!\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"Germany\" src=\"/images/flag-germany_1f1e9-1f1ea.png\"\u003e\u003cbr\u003e\r\n- Professor Walker, Professor Glasze"
+    ],
+    [
+      "schedule",
+      "event7TimeUS",
+      "TBD",
+      "TBD"
+    ],
+    [
+      "schedule",
+      "event7TimeGermany",
+      "TBD",
+      "TBD"
+    ],
+    [
+      "schedule",
+      "event7TimeJapan",
+      "TBD",
+      "TBD"
+    ],
+    [
+      "schedule",
+      "event7Description",
+      "\u003cstrong\u003eOpening Keynote\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"Germany\" src=\"/images/flag-germany_1f1e9-1f1ea.png\"\u003e\u003cbr\u003e\r\n- Dr. Danijel Schorlemmer",
+      "\u003cstrong\u003eOpening Keynote\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"Germany\" src=\"/images/flag-germany_1f1e9-1f1ea.png\"\u003e\u003cbr\u003e\r\n- Dr. Danijel Schorlemmer"
+    ],
+    [
+      "schedule",
+      "event8TimeUS",
+      "TBD",
+      "TBD"
+    ],
+    [
+      "schedule",
+      "event8TimeGermany",
+      "TBD",
+      "TBD"
+    ],
+    [
+      "schedule",
+      "event8TimeJapan",
+      "TBD",
+      "TBD"
+    ],
+    [
+      "schedule",
+      "event8Description",
+      "\u003cstrong\u003eTraining Workshop\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"Germany\" src=\"/images/flag-germany_1f1e9-1f1ea.png\"\u003e",
+      "\u003cstrong\u003eTraining Workshop\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"Germany\" src=\"/images/flag-germany_1f1e9-1f1ea.png\"\u003e"
+    ],
+    [
+      "schedule",
+      "event9TimeUS",
+      "4:45",
+      "4:45"
+    ],
+    [
+      "schedule",
+      "event9TimeGermany",
+      "13:45",
+      "13:45"
+    ],
+    [
+      "schedule",
+      "event9TimeJapan",
+      "20:45",
+      "20:45"
+    ],
+    [
+      "schedule",
+      "event9Description",
+      "\u003cstrong\u003eMapping in-person, live Slack support \u003c/strong\u003e \u003cimg class=\"flag\" alt=\"Germany\" src=\"/images/flag-germany_1f1e9-1f1ea.png\"\u003e",
+      "\u003cstrong\u003eMapping in-person, live Slack support \u003c/strong\u003e \u003cimg class=\"flag\" alt=\"Germany\" src=\"/images/flag-germany_1f1e9-1f1ea.png\"\u003e"
+    ],
+    [
+      "schedule",
+      "event10TimeUS",
+      "17:00",
+      "17:00"
+    ],
+    [
+      "schedule",
+      "event10TimeGermany",
+      "2:00",
+      "2:00"
+    ],
+    [
+      "schedule",
+      "event10TimeJapan",
+      "9:00",
+      "9:00"
+    ],
+    [
+      "schedule",
+      "event10Description",
+      "\u003cstrong\u003eDay 2 - Opening Remarks\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e",
+      "\u003cstrong\u003eDay 2 - Opening Remarks\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e"
+    ],
+    [
+      "schedule",
+      "event11TimeUS",
+      "17:10",
+      "17:10"
+    ],
+    [
+      "schedule",
+      "event11TimeGermany",
+      "2:10",
+      "2:10"
+    ],
+    [
+      "schedule",
+      "event11TimeJapan",
+      "9:10",
+      "9:10"
+    ],
+    [
+      "schedule",
+      "event11Description",
+      "\u003cstrong\u003eLightning Talk Marathon\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e\u003cbr\u003e\nFormat: 3 minute presentations\n\n\u003cbr\u003e\r\n\u003cbr\u003e\r\n\r\n\u003cstrong\u003eRound 1\u003c/strong\u003e\r\n\u003cbr\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eUCLA\u003c/li\u003e\r\n\u003cli\u003eUSC\u003c/li\u003e\r\n\u003cli\u003eReitaku\u003c/li\u003e\r\n\u003cli\u003eCommunity\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\r\n\u003cstrong\u003eRound 2\u003c/strong\u003e\r\n\u003cbr\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eUCLA\u003c/li\u003e\r\n\u003cli\u003eUSC\u003c/li\u003e\r\n\u003cli\u003eReitaku\u003c/li\u003e\r\n\u003cli\u003eCommunity\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\r\n\u003cstrong\u003eRound 3\u003c/strong\u003e\r\n\u003cbr\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eUCLA\u003c/li\u003e\r\n\u003cli\u003eUSC\u003c/li\u003e\r\n\u003cli\u003eReitaku\u003c/li\u003e\r\n\u003cli\u003eCommunity\u003c/li\u003e\r\n\u003c/ul\u003e",
+      "\u003cstrong\u003eLightning Talk Marathon\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e\u003cbr\u003e\nFormat: 3 minute presentations\n\n\u003cbr\u003e\r\n\u003cbr\u003e\r\n\r\n\u003cstrong\u003eRound 1\u003c/strong\u003e\r\n\u003cbr\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eUCLA\u003c/li\u003e\r\n\u003cli\u003eUSC\u003c/li\u003e\r\n\u003cli\u003eReitaku\u003c/li\u003e\r\n\u003cli\u003eCommunity\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\r\n\u003cstrong\u003eRound 2\u003c/strong\u003e\r\n\u003cbr\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eUCLA\u003c/li\u003e\r\n\u003cli\u003eUSC\u003c/li\u003e\r\n\u003cli\u003eReitaku\u003c/li\u003e\r\n\u003cli\u003eCommunity\u003c/li\u003e\r\n\u003c/ul\u003e\r\n\r\n\u003cstrong\u003eRound 3\u003c/strong\u003e\r\n\u003cbr\u003e\r\n\u003cul\u003e\r\n\u003cli\u003eUCLA\u003c/li\u003e\r\n\u003cli\u003eUSC\u003c/li\u003e\r\n\u003cli\u003eReitaku\u003c/li\u003e\r\n\u003cli\u003eCommunity\u003c/li\u003e\r\n\u003c/ul\u003e"
+    ],
+    [
+      "schedule",
+      "event12TimeUS",
+      "18:50",
+      "18:50"
+    ],
+    [
+      "schedule",
+      "event12TimeGermany",
+      "3:50",
+      "3:50"
+    ],
+    [
+      "schedule",
+      "event12TimeJapan",
+      "10:50",
+      "10:50"
+    ],
+    [
+      "schedule",
+      "event12Description",
+      "\u003cstrong\u003eDay 2 Leaderboard Reveal and Wrap Up\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e",
+      "\u003cstrong\u003eDay 2 Leaderboard Reveal and Wrap Up\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e"
+    ],
+    [
+      "schedule",
+      "event13TimeUS",
+      "17:00",
+      "17:00"
+    ],
+    [
+      "schedule",
+      "event13TimeGermany",
+      "2:00",
+      "2:00"
+    ],
+    [
+      "schedule",
+      "event13TimeJapan",
+      "9:00",
+      "9:00"
+    ],
+    [
+      "schedule",
+      "event13Description",
+      "\u003cstrong\u003eDay 3 - Opening Remarks\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e",
+      "\u003cstrong\u003eDay 3 - Opening Remarks\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e"
+    ],
+    [
+      "schedule",
+      "event14TimeUS",
+      "17:15",
+      "17:15"
+    ],
+    [
+      "schedule",
+      "event14TimeGermany",
+      "2:15",
+      "2:15"
+    ],
+    [
+      "schedule",
+      "event14TimeJapan",
+      "9:15",
+      "9:15"
+    ],
+    [
+      "schedule",
+      "event14Description",
+      "\u003cstrong\u003eClosing Keynote\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e\u003cbr\u003e\n\u003cimg src=\"/images/taichi_furuhashi.png\" style=\"width: 100%; max-width: 300px;\"\u003e\n\u003cbr\u003e\u003cbr\u003e\n- Taichi Furuhashi\n\u003cbr\u003e\u003cbr\u003e\n\u003cp style=\"hyphens: auto;\"\u003e\nTaichi Furuhashi is passionate about mapping, connecting local communities with maps and sharing knowledge to empower people. As you know, Huge Earthquake and Tsunami destroyed a lot of cities and local communities in East Japan area in 2011. They are trying, how to make more resilient society with Mapping, Panorama/VR and Drone technology. Taichi is a professor of Aoyama Gakuin University and President of CrisisMappers Japan, NPO. Now he has started DRONEBIRD project with drones for Disaster Crisis Response.\u003c/p\u003e",
+      "\u003cstrong\u003eClosing Keynote\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e\u003cbr\u003e\n\u003cimg src=\"/images/taichi_furuhashi.png\" style=\"width: 100%; max-width: 300px;\"\u003e\n\u003cbr\u003e\u003cbr\u003e\n- Taichi Furuhashi\n\u003cbr\u003e\u003cbr\u003e\n\u003cp style=\"hyphens: auto;\"\u003e\nTaichi Furuhashi is passionate about mapping, connecting local communities with maps and sharing knowledge to empower people. As you know, Huge Earthquake and Tsunami destroyed a lot of cities and local communities in East Japan area in 2011. They are trying, how to make more resilient society with Mapping, Panorama/VR and Drone technology. Taichi is a professor of Aoyama Gakuin University and President of CrisisMappers Japan, NPO. Now he has started DRONEBIRD project with drones for Disaster Crisis Response.\u003c/p\u003e"
+    ],
+    [
+      "schedule",
+      "event15TimeUS",
+      "18:00",
+      "18:00"
+    ],
+    [
+      "schedule",
+      "event15TimeGermany",
+      "3:00",
+      "3:00"
+    ],
+    [
+      "schedule",
+      "event15TimeJapan",
+      "10:00",
+      "10:00"
+    ],
+    [
+      "schedule",
+      "event15Description",
+      "\u003cstrong\u003eBig Reveal, Prizes, and Closing Remarks\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e",
+      "\u003cstrong\u003eBig Reveal, Prizes, and Closing Remarks\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e"
     ],
     [
       "schedule",
@@ -587,7 +995,7 @@
     [
       "team",
       "section1Name4",
-      "",
+      "Kelly Kwok",
       "Kelly Kwok"
     ],
     [
