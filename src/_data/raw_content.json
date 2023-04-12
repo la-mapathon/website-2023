@@ -1,5 +1,5 @@
 {
-  "range": "Sheet1!A1:D1182",
+  "range": "Sheet1!A1:D1183",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -41,7 +41,7 @@
     [
       "sitewide",
       "dateRange",
-      "April 18 through April 20, 2023 (US)\u003cbr\u003e\nApril 19 through April 21, 2023 (Japan)",
+      "April 18 through April 20, 2023 (US)\u003cbr\u003e\nApril 19 through April 21, 2023 (Japan, Germany)",
       "4月19日（水）、20日（木）、21日（金）"
     ],
     [
@@ -127,6 +127,12 @@
       "content2",
       "This three-day international hybrid event will include student speakers, hands-on training, donuts, prizes, and more. Join a community of humanitarian mappers, and let's all make a difference.",
       "\u003cp\u003e麗澤大学（日本）、UCLA、南カリフォルニア大学（USC）は、誰もが自由に作成し利用することができるオープンストリートマップ（OpenStreetMap）を通じて、人道的活動やコミュニティ開発を支援するため「６th Annual International Humanitarian Mapathon」を開催します。2023年からは麗澤大学が参加することにより、初めて国際的なイベントとして開催されることになりました。\n\u003c/p\u003e\n\u003cp\u003e\nこのイベントは、毎年アースウィーク（ 2023年4月16〜22日）の期間中に開催され、持続可能な開発目標（SDGs）に貢献する地図データを提供することに特に重点を置いて実施されてきました。\n\u003c/p\u003e\n\u003cp\u003e\n\nMapathonはマッピングの経験の有無に関わらず、だれもが参加できるイベントです。様々な関心を持つ方が、マッピングを通じて世界の人道的な活動に貢献できるよう、対面およびオンラインでのトレーニングも実施される予定です。期間中は、基調講演、学生によるライトニングトーク、ハンズオントレーニング、プレゼンテーションへの賞品、ドーナツとコーヒー、など盛りだくさんのイベントになる予定です。\n\u003c/p\u003e\n"
+    ],
+    [
+      "home",
+      "content3",
+      "Use these hashtags when making your HOT OSM contributions to make sure your team gets credit on the leaderboard!\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUCLA:\u003c/strong\u003e #uclamapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUSC:\u003c/strong\u003e #uscmapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eReitaku:\u003c/strong\u003e #reitakumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eFAU:\u003c/strong\u003e #faumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eMaptimeLA:\u003c/strong\u003e #maptimelamapathon2023",
+      "Use these hashtags when making your HOT OSM contributions to make sure your team gets credit on the leaderboard!\n\u003cbr\u003e\u003cbr\u003e\nUCLA: #uclamapathon2023\u003cbr\u003eUSC: #uscmapathon2023\u003cbr\u003eReitaku: #reitakumapathon2023\u003cbr\u003eFAU: #faumapathon2023\u003cbr\u003eMaptimeLA: #maptimelamapathon2023"
     ],
     [
       "home",
