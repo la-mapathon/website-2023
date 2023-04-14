@@ -1,5 +1,5 @@
 {
-  "range": "Sheet1!A1:D1183",
+  "range": "Sheet1!A1:D1182",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -100,12 +100,6 @@
     ],
     [
       "home",
-      "pageSubheader",
-      "UCLA: #uclamapathon2023\u003cbr\u003eUSC: #uscmapathon2023\u003cbr\u003eReitaku: #reitakumapathon2023\u003cbr\u003eFAU: #faumapathon2023\u003cbr\u003eMaptimeLA: #maptimelamapathon2023",
-      "UCLA: #uclamapathon2023\u003cbr\u003eUSC: #uscmapathon2023\u003cbr\u003eReitaku: #reitakumapathon2023\u003cbr\u003eFAU: #faumapathon2023\u003cbr\u003eMaptimeLA: #maptimelamapathon2023"
-    ],
-    [
-      "home",
       "heroTitle",
       "Our Goal:\u003cbr\u003eMapping 20,000 Buildings",
       "目標：20,000棟"
@@ -167,7 +161,7 @@
     [
       "home",
       "cardContent2",
-      "The mapathon will span a 3-day period spanning April 18 to April 20. Check out the full agenda here.",
+      "The mapathon will take place over a 3-day period spanning April 18 to April 20. Check out the full agenda here.",
       "このイベントは、毎年アースウィーク（ 2023年4月16〜22日）の期間中に開催される。フルスケジュールはこちらを参照"
     ],
     [
@@ -335,7 +329,7 @@
     [
       "schedule",
       "event1Description",
-      "\u003cstrong\u003eDay 1 - Welcome\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e\n\u003cbr\u003e- Yoh (Japan) and Andy (Mexico/USA)!",
+      "\u003cstrong class=\"display-6\"\u003eDay 1\u003c/strong\u003e\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eIn-person locations:\u003c/strong\u003e\u003cbr\u003e\n\u003cstrong\u003eUCLA:\u003c/strong\u003e Young Research Library\u003cbr\u003e\n\u003cstrong\u003eUSC:\u003c/strong\u003e Ahmanson Lab (Leavey Library, 3rd floor) - \u003ca href=\"https://goo.gl/maps/VTwxzSm3rZdudGiR8\" target=\"_blank\"\u003emap\u003c/a\u003e\u003cbr\u003e\n\u003cstrong\u003eMaptimeLA:\u003c/strong\u003e 1 Gateway Plaza, Union Station Room (3rd floor) - \u003ca href=\"https://goo.gl/maps/E9oWgUJHetyw8zoV7\" target=\"_blank\"\u003emap\u003c/a\u003e\u003cbr\u003e\n\u003cstrong\u003eReitaku:\u003c/strong\u003e iFloor Presentation Terrace (Asunaro Building)\u003cbr\u003e\n\u003cstrong\u003eFAU:\u003c/strong\u003e Seminar-Rooms of the Institute of Geography in Erlangen-Tennenlohe (Wetterkreuz 15, ground floor)\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eWelcome\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e\n\u003cbr\u003e- Yoh (Japan) and Andy (Mexico/USA)!",
       "\u003cstrong\u003eDay 1 - Welcome\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e\n\u003cbr\u003e- Yoh (Japan) and Andy (Mexico/USA)!"
     ],
     [
@@ -359,7 +353,7 @@
     [
       "schedule",
       "event2Description",
-      "\u003cstrong\u003eOpening Keynote\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e\u003cbr\u003e\n\u003cimg src=\"/images/celine_jacquin.png\" style=\"width: 100%; max-width: 300px;\"\u003e\n\u003cbr\u003e\u003cbr\u003e\n- Céline Jacquin\n\u003cbr\u003e\u003cbr\u003e\n\u003cp style=\"hyphens: auto;\"\u003eI am a French geographer who has lived in Mexico City for half part of my life, as an urban studies researcher and open data and civic technology activist through OpenStreetMap and other citizen science projects focused on urban mobility, gender, and community building like Geochicas. I have participated in various open governance programs at the university, at the World Resources Institute, and in two federal scientific institutions in Mexico (CONACyT and INEGI). I am involved as much as my time allows in diversity and inclusion activities within OSM. I have been a project manager for HOT in Latin America since 2021 and am now the Senior Manager of Community Programs for Latin America.\u003c/p\u003e",
+      "\u003cstrong\u003eOpening Keynote\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e\u003cbr\u003e\n\u003cimg src=\"/images/celine_jacquin.png\" style=\"width: 100%; max-width: 300px;\"\u003e\n\u003cbr\u003e\u003cbr\u003e\n- Céline Jacquin\n\u003cbr\u003e\u003cbr\u003e\n\u003cp\u003eI am a French geographer who has lived in Mexico City for half part of my life, as an urban studies researcher and open data and civic technology activist through OpenStreetMap and other citizen science projects focused on urban mobility, gender, and community building like Geochicas. I have participated in various open governance programs at the university, at the World Resources Institute, and in two federal scientific institutions in Mexico (CONACyT and INEGI). I am involved as much as my time allows in diversity and inclusion activities within OSM. I have been a project manager for HOT in Latin America since 2021 and am now the Senior Manager of Community Programs for Latin America.\u003c/p\u003e",
       "\u003cstrong\u003eOpening Keynote\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e\u003cbr\u003e\n\u003cimg src=\"/images/celine_jacquin.png\" style=\"width: 100%; max-width: 300px;\"\u003e\n\u003cbr\u003e\u003cbr\u003e\n- Céline Jacquin\n\u003cbr\u003e\u003cbr\u003e\n\u003cp style=\"hyphens: auto;\"\u003eI am a French geographer who has lived in Mexico City for half part of my life, as an urban studies researcher and open data and civic technology activist through OpenStreetMap and other citizen science projects focused on urban mobility, gender, and community building like Geochicas. I have participated in various open governance programs at the university, at the World Resources Institute, and in two federal scientific institutions in Mexico (CONACyT and INEGI). I am involved as much as my time allows in diversity and inclusion activities within OSM. I have been a project manager for HOT in Latin America since 2021 and am now the Senior Manager of Community Programs for Latin America.\u003c/p\u003e"
     ],
     [
@@ -455,7 +449,7 @@
     [
       "schedule",
       "event6Description",
-      "\u003cstrong\u003eWelcome!\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"Germany\" src=\"/images/flag-germany_1f1e9-1f1ea.png\"\u003e\u003cbr\u003e\r\n- Professor Walker, Professor Glasze",
+      "\u003cstrong\u003eWelcome!\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"Germany\" src=\"/images/flag-germany_1f1e9-1f1ea.png\"\u003e\u003cbr\u003e\n- Professor Walker, Professor Glasze",
       "\u003cstrong\u003eWelcome!\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"Germany\" src=\"/images/flag-germany_1f1e9-1f1ea.png\"\u003e\u003cbr\u003e\r\n- Professor Walker, Professor Glasze"
     ],
     [
@@ -479,7 +473,7 @@
     [
       "schedule",
       "event7Description",
-      "\u003cstrong\u003eOpening Keynote\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"Germany\" src=\"/images/flag-germany_1f1e9-1f1ea.png\"\u003e\u003cbr\u003e\r\n- Dr. Danijel Schorlemmer",
+      "\u003cstrong\u003eOpening Keynote\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"Germany\" src=\"/images/flag-germany_1f1e9-1f1ea.png\"\u003e\u003cbr\u003e\n\u003cimg src=\"/images/danijel.png\" style=\"width: 100%; max-width: 300px;\"\u003e\n\u003cbr\u003e\u003cbr\u003e\n- Dr. Danijel Schorlemmer\n\u003cbr\u003e\u003cbr\u003e\n\u003cp\u003eI’m a seismologist working at the GFZ German Research Centre for Geosciences. My working fields include seismic networks, earthquake hazard and risk and the building of a global multi-hazard exposure model describing each building’s vulnerability to different hazards.\u003c/p\u003e",
       "\u003cstrong\u003eOpening Keynote\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"Germany\" src=\"/images/flag-germany_1f1e9-1f1ea.png\"\u003e\u003cbr\u003e\r\n- Dr. Danijel Schorlemmer"
     ],
     [
@@ -551,7 +545,7 @@
     [
       "schedule",
       "event10Description",
-      "\u003cstrong\u003eDay 2 - Opening Remarks\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e",
+      "\u003cstrong class=\"display-6\"\u003eDay 2\u003c/strong\u003e\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eIn-person locations:\u003c/strong\u003e\u003cbr\u003e\nUCLA: Young Research Library\u003cbr\u003e\nUSC: Library for International and Public Affairs (LIPA) - \u003ca href=\"https://goo.gl/maps/KeKqENv65X6Viakw9\" target=\"_blank\"\u003emap\u003c/a\u003e\u003cbr\u003e\nReitaku: iFloor Presentation Terrace (Asunaro Building)\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eOpening Remarks\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e",
       "\u003cstrong\u003eDay 2 - Opening Remarks\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e"
     ],
     [
@@ -623,7 +617,7 @@
     [
       "schedule",
       "event13Description",
-      "\u003cstrong\u003eDay 3 - Opening Remarks\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e",
+      "\u003cstrong class=\"display-6\"\u003eDay 3\u003c/strong\u003e\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eIn-person locations:\u003c/strong\u003e\u003cbr\u003e\nUCLA: Young Research Library\u003cbr\u003e\nUSC: Library for International and Public Affairs (LIPA) - \u003ca href=\"https://goo.gl/maps/KeKqENv65X6Viakw9\" target=\"_blank\"\u003emap\u003c/a\u003e\u003cbr\u003e\nReitaku: iFloor Presentation Terrace (Asunaro Building)\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eOpening Remarks\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e\n",
       "\u003cstrong\u003eDay 3 - Opening Remarks\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e"
     ],
     [
