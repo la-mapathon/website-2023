@@ -1,5 +1,5 @@
 {
-  "range": "Sheet1!A1:D1198",
+  "range": "Sheet1!A1:D1206",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -125,6 +125,8 @@
     [
       "home",
       "content3",
+      "We recommend that participants contribute to \u003cstrong\u003e\u003ca href=\"https://tasks.hotosm.org/projects/14606\" target=\"_blank\"\u003eProject # 14606 - Missing Maps: Buildings in Bata, Equatorial Guinea\u003c/a\u003e\u003c/strong\u003e for this Mapathon.\n\nUse these hashtags when making your HOT OSM contributions to make sure your team gets credit on the leaderboard!\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUCLA:\u003c/strong\u003e #uclamapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUSC:\u003c/strong\u003e #uscmapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eReitaku:\u003c/strong\u003e #reitakumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eFAU:\u003c/strong\u003e #faumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eMaptimeLA:\u003c/strong\u003e #maptimelamapathon2023",
+      "We recommend that participants contribute to \u003cstrong\u003e\u003ca href=\"https://tasks.hotosm.org/projects/14606\" target=\"_blank\"\u003eProject # 14606 - Missing Maps: Buildings in Bata, Equatorial Guinea\u003c/a\u003e\u003c/strong\u003e for this Mapathon.\n\nUse these hashtags when making your HOT OSM contributions to make sure your team gets credit on the leaderboard!\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUCLA:\u003c/strong\u003e #uclamapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUSC:\u003c/strong\u003e #uscmapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eReitaku:\u003c/strong\u003e #reitakumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eFAU:\u003c/strong\u003e #faumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eMaptimeLA:\u003c/strong\u003e #maptimelamapathon2023"
       "We recommend that participants contribute to \u003cstrong\u003e\u003ca href=\"https://tasks.hotosm.org/projects/14606\" target=\"_blank\"\u003eProject # 14606 - Missing Maps: Buildings in Bata, Equatorial Guinea\u003c/a\u003e\u003c/strong\u003e for this Mapathon.\n\nUse these hashtags when making your HOT OSM contributions to make sure your team gets credit on the leaderboard!\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUCLA:\u003c/strong\u003e #uclamapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUSC:\u003c/strong\u003e #uscmapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eReitaku:\u003c/strong\u003e #reitakumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eFAU:\u003c/strong\u003e #faumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eMaptimeLA:\u003c/strong\u003e #maptimelamapathon2023",
       "We recommend that participants contribute to \u003cstrong\u003e\u003ca href=\"https://tasks.hotosm.org/projects/14606\" target=\"_blank\"\u003eProject # 14606 - Missing Maps: Buildings in Bata, Equatorial Guinea\u003c/a\u003e\u003c/strong\u003e for this Mapathon.\n\nUse these hashtags when making your HOT OSM contributions to make sure your team gets credit on the leaderboard!\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUCLA:\u003c/strong\u003e #uclamapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUSC:\u003c/strong\u003e #uscmapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eReitaku:\u003c/strong\u003e #reitakumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eFAU:\u003c/strong\u003e #faumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eMaptimeLA:\u003c/strong\u003e #maptimelamapathon2023"
     ],
@@ -1024,13 +1026,15 @@
     ],
     [
       "team",
-      "section1Photo5"
+      "section1Photo5",
+      "omar.jpg",
+      "omar.jpg"
     ],
     [
       "team",
       "section1Description5",
-      "\u003cem\u003eComing soon...\u003c/em\u003e",
-      "\u003cem\u003eComing soon...\u003c/em\u003e"
+      "Omar works with data about all that is Los Angeles through maps, graphics and popular education. From identifying industrial facilities and their effects on communities to finding where all the tacos are in the city, there's many stories to share.",
+      "Omar works with data about all that is Los Angeles through maps, graphics and popular education. From identifying industrial facilities and their effects on communities to finding where all the tacos are in the city, there's many stories to share."
     ],
     [
       "team",
@@ -1136,7 +1140,9 @@
     ],
     [
       "team",
-      "section1Photo10"
+      "section1Photo10",
+      "wataru.png",
+      "wataru.png"
     ],
     [
       "team",
@@ -1149,6 +1155,54 @@
       "section1Affiliation10",
       "aoyama",
       "aoyama"
+    ],
+    [
+      "team",
+      "section1Name11",
+      "Cerys Edwards",
+      "Cerys Edwards"
+    ],
+    [
+      "team",
+      "section1Photo11",
+      "Cerys.png",
+      "Cerys.png"
+    ],
+    [
+      "team",
+      "section1Description11",
+      "\u003cem\u003eComing soon...\u003c/em\u003e",
+      "\u003cem\u003eComing soon...\u003c/em\u003e"
+    ],
+    [
+      "team",
+      "section1Affiliation11",
+      "ucla",
+      "ucla"
+    ],
+    [
+      "team",
+      "section1Name12",
+      "Bosen Shao",
+      "Bosen Shao"
+    ],
+    [
+      "team",
+      "section1Photo12",
+      "Bosen.jpg",
+      "Bosen.jpg"
+    ],
+    [
+      "team",
+      "section1Description12",
+      "\u003cem\u003eComing soon...\u003c/em\u003e",
+      "\u003cem\u003eComing soon...\u003c/em\u003e"
+    ],
+    [
+      "team",
+      "section1Affiliation12",
+      "usc",
+      "usc"
     ],
     [
       "team",
