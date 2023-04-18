@@ -1,5 +1,5 @@
 {
-  "range": "Sheet1!A1:D1182",
+  "range": "Sheet1!A1:D1198",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -125,8 +125,8 @@
     [
       "home",
       "content3",
-      "Use these hashtags when making your HOT OSM contributions to make sure your team gets credit on the leaderboard!\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUCLA:\u003c/strong\u003e #uclamapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUSC:\u003c/strong\u003e #uscmapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eReitaku:\u003c/strong\u003e #reitakumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eFAU:\u003c/strong\u003e #faumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eMaptimeLA:\u003c/strong\u003e #maptimelamapathon2023",
-      "Use these hashtags when making your HOT OSM contributions to make sure your team gets credit on the leaderboard!\n\u003cbr\u003e\u003cbr\u003e\nUCLA: #uclamapathon2023\u003cbr\u003eUSC: #uscmapathon2023\u003cbr\u003eReitaku: #reitakumapathon2023\u003cbr\u003eFAU: #faumapathon2023\u003cbr\u003eMaptimeLA: #maptimelamapathon2023"
+      "We recommend that participants contribute to \u003cstrong\u003e\u003ca href=\"https://tasks.hotosm.org/projects/14606\" target=\"_blank\"\u003eProject # 14606 - Missing Maps: Buildings in Bata, Equatorial Guinea\u003c/a\u003e\u003c/strong\u003e for this Mapathon.\n\nUse these hashtags when making your HOT OSM contributions to make sure your team gets credit on the leaderboard!\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUCLA:\u003c/strong\u003e #uclamapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUSC:\u003c/strong\u003e #uscmapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eReitaku:\u003c/strong\u003e #reitakumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eFAU:\u003c/strong\u003e #faumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eMaptimeLA:\u003c/strong\u003e #maptimelamapathon2023",
+      "We recommend that participants contribute to \u003cstrong\u003e\u003ca href=\"https://tasks.hotosm.org/projects/14606\" target=\"_blank\"\u003eProject # 14606 - Missing Maps: Buildings in Bata, Equatorial Guinea\u003c/a\u003e\u003c/strong\u003e for this Mapathon.\n\nUse these hashtags when making your HOT OSM contributions to make sure your team gets credit on the leaderboard!\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUCLA:\u003c/strong\u003e #uclamapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUSC:\u003c/strong\u003e #uscmapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eReitaku:\u003c/strong\u003e #reitakumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eFAU:\u003c/strong\u003e #faumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eMaptimeLA:\u003c/strong\u003e #maptimelamapathon2023"
     ],
     [
       "home",
@@ -1061,6 +1061,94 @@
       "section1Affiliation6",
       "metro",
       "metro"
+    ],
+    [
+      "team",
+      "section1Name7",
+      "Ichika Imajo",
+      "Ichika Imajo"
+    ],
+    [
+      "team",
+      "section1Photo7"
+    ],
+    [
+      "team",
+      "section1Description7",
+      "\u003cem\u003eComing soon...\u003c/em\u003e",
+      "\u003cem\u003eComing soon...\u003c/em\u003e"
+    ],
+    [
+      "team",
+      "section1Affiliation7",
+      "reitaku",
+      "reitaku"
+    ],
+    [
+      "team",
+      "section1Name8",
+      "Kasumi Kanda",
+      "Kasumi Kanda"
+    ],
+    [
+      "team",
+      "section1Photo8"
+    ],
+    [
+      "team",
+      "section1Description8",
+      "\u003cem\u003eComing soon...\u003c/em\u003e",
+      "\u003cem\u003eComing soon...\u003c/em\u003e"
+    ],
+    [
+      "team",
+      "section1Affiliation8",
+      "reitaku",
+      "reitaku"
+    ],
+    [
+      "team",
+      "section1Name9",
+      "Zark Saito",
+      "Zark Saito"
+    ],
+    [
+      "team",
+      "section1Photo9"
+    ],
+    [
+      "team",
+      "section1Description9",
+      "\u003cem\u003eComing soon...\u003c/em\u003e",
+      "\u003cem\u003eComing soon...\u003c/em\u003e"
+    ],
+    [
+      "team",
+      "section1Affiliation9",
+      "reitaku",
+      "reitaku"
+    ],
+    [
+      "team",
+      "section1Name10",
+      "Wataru Yoshida",
+      "Wataru Yoshida"
+    ],
+    [
+      "team",
+      "section1Photo10"
+    ],
+    [
+      "team",
+      "section1Description10",
+      "\u003cem\u003eComing soon...\u003c/em\u003e",
+      "\u003cem\u003eComing soon...\u003c/em\u003e"
+    ],
+    [
+      "team",
+      "section1Affiliation10",
+      "aoyama",
+      "aoyama"
     ],
     [
       "team",
