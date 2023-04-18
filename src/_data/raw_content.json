@@ -1,5 +1,5 @@
 {
-  "range": "Sheet1!A1:D1206",
+  "range": "Sheet1!A1:D1212",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -125,8 +125,8 @@
     [
       "home",
       "content3",
-      "We recommend that participants contribute to \u003cstrong\u003e\u003ca href=\"https://tasks.hotosm.org/projects/14606\" target=\"_blank\"\u003eProject # 14606 - Missing Maps: Buildings in Bata, Equatorial Guinea\u003c/a\u003e\u003c/strong\u003e for this Mapathon.\n\nUse these hashtags when making your HOT OSM contributions to make sure your team gets credit on the leaderboard!\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUCLA:\u003c/strong\u003e #uclamapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUSC:\u003c/strong\u003e #uscmapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eReitaku:\u003c/strong\u003e #reitakumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eFAU:\u003c/strong\u003e #faumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eMaptimeLA:\u003c/strong\u003e #maptimelamapathon2023",
-      "We recommend that participants contribute to \u003cstrong\u003e\u003ca href=\"https://tasks.hotosm.org/projects/14606\" target=\"_blank\"\u003eProject # 14606 - Missing Maps: Buildings in Bata, Equatorial Guinea\u003c/a\u003e\u003c/strong\u003e for this Mapathon.\n\nUse these hashtags when making your HOT OSM contributions to make sure your team gets credit on the leaderboard!\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUCLA:\u003c/strong\u003e #uclamapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUSC:\u003c/strong\u003e #uscmapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eReitaku:\u003c/strong\u003e #reitakumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eFAU:\u003c/strong\u003e #faumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eMaptimeLA:\u003c/strong\u003e #maptimelamapathon2023"
+      "We recommend that participants contribute to \u003cstrong\u003e\u003ca href=\"https://tasks.hotosm.org/projects/14606\" target=\"_blank\"\u003eProject #14606 - Missing Maps: Buildings in Bata, Equatorial Guinea\u003c/a\u003e\u003c/strong\u003e for this Mapathon.\n\u003cbr\u003e\u003cbr\u003e\nUse these hashtags when making your HOT OSM contributions to make sure your team gets credit on the leaderboard!\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUCLA:\u003c/strong\u003e #uclamapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUSC:\u003c/strong\u003e #uscmapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eReitaku:\u003c/strong\u003e #reitakumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eFAU:\u003c/strong\u003e #faumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eMaptimeLA:\u003c/strong\u003e #maptimelamapathon2023",
+      "We recommend that participants contribute to \u003cstrong\u003e\u003ca href=\"https://tasks.hotosm.org/projects/14606\" target=\"_blank\"\u003eProject #14606 - Missing Maps: Buildings in Bata, Equatorial Guinea\u003c/a\u003e\u003c/strong\u003e for this Mapathon.\n\u003cbr\u003e\u003cbr\u003e\nUse these hashtags when making your HOT OSM contributions to make sure your team gets credit on the leaderboard!\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUCLA:\u003c/strong\u003e #uclamapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eUSC:\u003c/strong\u003e #uscmapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eReitaku:\u003c/strong\u003e #reitakumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eFAU:\u003c/strong\u003e #faumapathon2023\n\u003cbr\u003e\u003cbr\u003e\n\u003cstrong\u003eMaptimeLA:\u003c/strong\u003e #maptimelamapathon2023"
     ],
     [
       "home",
@@ -292,6 +292,12 @@
     ],
     [
       "schedule",
+      "USDay4",
+      "April 21",
+      "April 21"
+    ],
+    [
+      "schedule",
       "notUSDay1",
       "April 19",
       "April 19"
@@ -307,6 +313,12 @@
       "notUSDay3",
       "April 21",
       "April 21"
+    ],
+    [
+      "schedule",
+      "notUSDay4",
+      "April 22",
+      "April 22"
     ],
     [
       "schedule",
@@ -667,6 +679,30 @@
       "event15Description",
       "\u003cstrong\u003eBig Reveal, Prizes, and Closing Remarks\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e",
       "\u003cstrong\u003eBig Reveal, Prizes, and Closing Remarks\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"US\" src=\"/images/flag-united-states_1f1fa-1f1f8.png\"\u003e\u003cimg class=\"flag\" alt=\"Japan\" src=\"/images/flag-japan_1f1ef-1f1f5.png\"\u003e"
+    ],
+    [
+      "schedule",
+      "event16TimeUS",
+      "9:00",
+      "9:00"
+    ],
+    [
+      "schedule",
+      "event16TimeGermany",
+      "18:00",
+      "18:00"
+    ],
+    [
+      "schedule",
+      "event16TimeJapan",
+      "1:00",
+      "1:00"
+    ],
+    [
+      "schedule",
+      "event16Description",
+      "\u003cstrong\u003eClosing Remarks\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"Germany\" src=\"/images/flag-germany_1f1e9-1f1ea.png\"\u003e",
+      "\u003cstrong\u003eClosing Remarks\u003c/strong\u003e \u003cimg class=\"flag\" alt=\"Germany\" src=\"/images/flag-germany_1f1e9-1f1ea.png\"\u003e"
     ],
     [
       "schedule",
