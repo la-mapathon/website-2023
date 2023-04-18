@@ -1089,8 +1089,8 @@
     [
       "team",
       "section1Description6",
-      "Nina is a civic technology geek and government nerd who loves working with tech, data, and maps to build tools for public good.",
-      "Nina is a civic technology geek and government nerd who loves working with tech, data, and maps to build tools for public good. Lightning talk title: Where's my bus?!"
+      "Nina is a civic technology geek and government nerd who loves working with tech, data, and maps to build tools for public good. \u003cbr\u003e\u003cbr\u003e\nLightning talk: Where's my bus?!",
+      "Nina is a civic technology geek and government nerd who loves working with tech, data, and maps to build tools for public good. \u003cbr\u003e\u003cbr\u003e\nLightning talk: Where's my bus?!"
     ],
     [
       "team",
@@ -1111,8 +1111,8 @@
     [
       "team",
       "section1Description7",
-      "Talk title: Abandoned schools, a new beginning?",
-      "Talk title: Abandoned schools, a new beginning?"
+      "Lightning talk: Abandoned schools, a new beginning?",
+      "Lightning talk: Abandoned schools, a new beginning?"
     ],
     [
       "team",
@@ -1135,8 +1135,8 @@
     [
       "team",
       "section1Description8",
-      "Lightning talk title: How Vietnam changed our views",
-      "Lightning talk title: How Vietnam changed our views"
+      "Lightning talk: How Vietnam changed our views",
+      "Lightning talk: How Vietnam changed our views"
     ],
     [
       "team",
@@ -1183,8 +1183,8 @@
     [
       "team",
       "section1Description10",
-      "Lightning talk title: Define the world by mapping it. Become a Youth Mapper!",
-      "Lightning talk title: Define the world by mapping it. Become a Youth Mapper!"
+      "Lightning talk: Define the world by mapping it. Become a Youth Mapper!",
+      "Lightning talk: Define the world by mapping it. Become a Youth Mapper!"
     ],
     [
       "team",
@@ -1206,7 +1206,9 @@
     ],
     [
       "team",
-      "section1Description11"
+      "section1Description11",
+      "Lightning talk: From Paper to Pixels: Mapping History",
+      "Lightning talk: From Paper to Pixels: Mapping History"
     ],
     [
       "team",
@@ -1228,8 +1230,7 @@
     ],
     [
       "team",
-      "section1Description12",
-      "\u003cem\u003eComing soon...\u003c/em\u003e"
+      "section1Description12"
     ],
     [
       "team",
