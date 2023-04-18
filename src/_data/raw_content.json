@@ -1125,12 +1125,14 @@
     [
       "team",
       "section1Name8",
-      "Kasumi Kanda",
-      "Kasumi Kanda"
+      "Kasumi Kanda and Yuki Nagumo",
+      "Kasumi Kanda and Yuki Nagumo"
     ],
     [
       "team",
-      "section1Photo8"
+      "section1Photo8",
+      "yukikasumi.jpg",
+      "yukikasumi.jpg"
     ],
     [
       "team",
@@ -1444,7 +1446,9 @@
     ],
     [
       "team",
-      "section2Photo9"
+      "section2Photo9",
+      "ayumi.png",
+      "ayumi.png"
     ],
     [
       "team",
