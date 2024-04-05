@@ -12,6 +12,9 @@
     "clean:build": "npm run clean && npm run build",
     "serve": "npx @11ty/eleventy --serve",
     "debug": "DEBUG=* npx @11ty/eleventy --serve",
+    "dev:build": "npx @11ty/eleventy --pathprefix=website-2023 --serve",
+    "preprod:build": "npx @11ty/eleventy --pathprefix=website-2023",
+    "prod:build": "npx @11ty/eleventy",
     "start": "npm run clean && npm run data && npm run serve"
   },
   "repository": {
