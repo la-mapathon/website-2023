@@ -18,9 +18,9 @@ layout: default
       {% comment %} {% for member in team.members %}
       <div class="card text-center mx-2 my-2" style="width: 18rem;">
       <div class="card-body d-flex flex-column justify-content-between">
-      <h2 class="card-title display-6"><img src="{{  '/images/' | append: member.affiliation | append: '.png' | url}}" height="30" class="mx-2"> {{ member.name }}</h2>
+      <h2 class="card-title display-6"><img src="{{  '/images/' | append: member.affiliation | append: '.png'}}" height="30" class="mx-2"> {{ member.name }}</h2>
       <p class="card-text">{{ member.blurb }}</p>
-      <img src="{{ member.image | url }}" width="250">
+      <img src="{{ member.image }}" width="250">
       </div>
       </div>
       {% endfor %} {% endcomment %}
@@ -29,7 +29,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section1Affiliation1 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section1Affiliation1 | append: '.png' }}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -38,7 +38,7 @@ layout: default
           {% assign photo1_1_url = source.team.section1Photo1 | strip %}
           {% if photo1_1_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section1Photo1 | url }}"
+              src="{{ '/images/' | append: source.team.section1Photo1 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -52,7 +52,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section1Affiliation2 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section1Affiliation2 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -61,7 +61,7 @@ layout: default
           {% assign photo1_2_url = source.team.section1Photo2 | strip %}
           {% if photo1_2_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section1Photo2 | url }}"
+              src="{{ '/images/' | append: source.team.section1Photo2 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -75,7 +75,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section1Affiliation3 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section1Affiliation3 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -84,7 +84,7 @@ layout: default
           {% assign photo1_3_url = source.team.section1Photo3 | strip %}
           {% if photo1_3_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section1Photo3 | url }}"
+              src="{{ '/images/' | append: source.team.section1Photo3 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -98,7 +98,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section1Affiliation4 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section1Affiliation4 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -107,7 +107,7 @@ layout: default
           {% assign photo1_4_url = source.team.section1Photo4 | strip %}
           {% if photo1_4_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section1Photo4 | url }}"
+              src="{{ '/images/' | append: source.team.section1Photo4 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -121,7 +121,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section1Affiliation5 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section1Affiliation5 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -130,7 +130,7 @@ layout: default
           {% assign photo1_5_url = source.team.section1Photo5 | strip %}
           {% if photo1_5_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section1Photo5 | url }}"
+              src="{{ '/images/' | append: source.team.section1Photo5 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -144,7 +144,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section1Affiliation6 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section1Affiliation6 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -153,7 +153,7 @@ layout: default
           {% assign photo6_url = source.team.section1Photo6 | strip %}
           {% if photo6_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section1Photo6 | url }}"
+              src="{{ '/images/' | append: source.team.section1Photo6 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -167,7 +167,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section1Affiliation7 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section1Affiliation7 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -176,7 +176,7 @@ layout: default
           {% assign photo7_url = source.team.section1Photo7 | strip %}
           {% if photo7_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section1Photo7 | url }}"
+              src="{{ '/images/' | append: source.team.section1Photo7 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -190,7 +190,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section1Affiliation8 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section1Affiliation8 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -199,7 +199,7 @@ layout: default
           {% assign photo8_url = source.team.section1Photo8 | strip %}
           {% if photo8_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section1Photo8 | url }}"
+              src="{{ '/images/' | append: source.team.section1Photo8 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -213,7 +213,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section1Affiliation9 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section1Affiliation9 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -222,7 +222,7 @@ layout: default
           {% assign photo9_url = source.team.section1Photo9 | strip %}
           {% if photo9_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section1Photo9 | url }}"
+              src="{{ '/images/' | append: source.team.section1Photo9 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -236,7 +236,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section1Affiliation10 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section1Affiliation10 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -245,7 +245,7 @@ layout: default
           {% assign photo10_url = source.team.section1Photo10 | strip %}
           {% if photo10_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section1Photo10 | url }}"
+              src="{{ '/images/' | append: source.team.section1Photo10 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -259,7 +259,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section1Affiliation11 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section1Affiliation11 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -268,7 +268,7 @@ layout: default
           {% assign photo11_url = source.team.section1Photo11 | strip %}
           {% if photo11_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section1Photo11 | url }}"
+              src="{{ '/images/' | append: source.team.section1Photo11 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -282,7 +282,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section1Affiliation12 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section1Affiliation12 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -291,7 +291,7 @@ layout: default
           {% assign photo12_url = source.team.section1Photo12 | strip %}
           {% if photo12_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section1Photo12 | url }}"
+              src="{{ '/images/' | append: source.team.section1Photo12 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -319,7 +319,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section2Affiliation1 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section2Affiliation1 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -328,7 +328,7 @@ layout: default
           {% assign photo2_1_url = source.team.section2Photo1 | strip %}
           {% if photo2_1_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section2Photo1 | url }}"
+              src="{{ '/images/' | append: source.team.section2Photo1 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -341,7 +341,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section2Affiliation2 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section2Affiliation2 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -350,7 +350,7 @@ layout: default
           {% assign photo2_2_url = source.team.section2Photo2 | strip %}
           {% if photo2_2_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section2Photo2 | url }}"
+              src="{{ '/images/' | append: source.team.section2Photo2 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -363,7 +363,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section2Affiliation3 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section2Affiliation3 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -373,7 +373,7 @@ layout: default
           {% assign photo2_3_url = source.team.section2Photo3 | strip %}
           {% if photo2_3_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section2Photo3 | url }}"
+              src="{{ '/images/' | append: source.team.section2Photo3 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -386,7 +386,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section2Affiliation4 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section2Affiliation4 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -396,7 +396,7 @@ layout: default
           {% assign photo2_4_url = source.team.section2Photo4 | strip %}
           {% if photo2_4_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section2Photo4 | url }}"
+              src="{{ '/images/' | append: source.team.section2Photo4 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -409,7 +409,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section2Affiliation5 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section2Affiliation5 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -419,7 +419,7 @@ layout: default
           {% assign photo2_5_url = source.team.section2Photo5 | strip %}
           {% if photo2_5_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section2Photo5 | url }}"
+              src="{{ '/images/' | append: source.team.section2Photo5 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -432,7 +432,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section2Affiliation6 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section2Affiliation6 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -442,7 +442,7 @@ layout: default
           {% assign photo2_6_url = source.team.section2Photo6 | strip %}
           {% if photo2_6_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section2Photo6 | url }}"
+              src="{{ '/images/' | append: source.team.section2Photo6 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -455,7 +455,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section2Affiliation7 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section2Affiliation7 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -465,7 +465,7 @@ layout: default
           {% assign photo2_7_url = source.team.section2Photo7 | strip %}
           {% if photo2_7_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section2Photo7 | url }}"
+              src="{{ '/images/' | append: source.team.section2Photo7 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -478,7 +478,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section2Affiliation8 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section2Affiliation8 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -488,7 +488,7 @@ layout: default
           {% assign photo2_8_url = source.team.section2Photo8 | strip %}
           {% if photo2_8_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section2Photo8 | url }}"
+              src="{{ '/images/' | append: source.team.section2Photo8 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -501,7 +501,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section2Affiliation9 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section2Affiliation9 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -511,7 +511,7 @@ layout: default
           {% assign photo2_9_url = source.team.section2Photo9 | strip %}
           {% if photo2_9_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section2Photo9 | url }}"
+              src="{{ '/images/' | append: source.team.section2Photo9 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -524,7 +524,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section2Affiliation10 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section2Affiliation10 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -534,7 +534,7 @@ layout: default
           {% assign photo2_10_url = source.team.section2Photo10 | strip %}
           {% if photo2_10_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section2Photo10 | url }}"
+              src="{{ '/images/' | append: source.team.section2Photo10 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -547,7 +547,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section2Affiliation11 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section2Affiliation11 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -557,7 +557,7 @@ layout: default
           {% assign photo2_11_url = source.team.section2Photo11 | strip %}
           {% if photo2_11_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section2Photo11 | url }}"
+              src="{{ '/images/' | append: source.team.section2Photo11 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -570,7 +570,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section2Affiliation12 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section2Affiliation12 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -580,7 +580,7 @@ layout: default
           {% assign photo2_12_url = source.team.section2Photo12 | strip %}
           {% if photo2_12_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section2Photo12 | url }}"
+              src="{{ '/images/' | append: source.team.section2Photo12 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -593,7 +593,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section2Affiliation13 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section2Affiliation13 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -603,7 +603,7 @@ layout: default
           {% assign photo2_13_url = source.team.section2Photo13 | strip %}
           {% if photo2_13_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section2Photo13 | url }}"
+              src="{{ '/images/' | append: source.team.section2Photo13 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -616,7 +616,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section2Affiliation14 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section2Affiliation14 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -626,7 +626,7 @@ layout: default
           {% assign photo2_14_url = source.team.section2Photo14 | strip %}
           {% if photo2_14_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section2Photo14 | url }}"
+              src="{{ '/images/' | append: source.team.section2Photo14 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -639,7 +639,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section2Affiliation15 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section2Affiliation15 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -649,7 +649,7 @@ layout: default
           {% assign photo2_15_url = source.team.section2Photo15 | strip %}
           {% if photo2_15_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section2Photo15 | url }}"
+              src="{{ '/images/' | append: source.team.section2Photo15 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -662,7 +662,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section2Affiliation16 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section2Affiliation16 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -672,7 +672,7 @@ layout: default
           {% assign photo2_16_url = source.team.section2Photo16 | strip %}
           {% if photo2_16_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section2Photo16 | url }}"
+              src="{{ '/images/' | append: source.team.section2Photo16 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -685,7 +685,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section2Affiliation17 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section2Affiliation17 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -695,7 +695,7 @@ layout: default
           {% assign photo2_17_url = source.team.section2Photo17 | strip %}
           {% if photo2_17_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section2Photo17 | url }}"
+              src="{{ '/images/' | append: source.team.section2Photo17 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
@@ -708,7 +708,7 @@ layout: default
         <div class="card-body d-flex flex-column justify-content-start align-items-center">
           <div class="d-flex flex-row align-items-center">
             <img
-              src="{{  '/images/' | append: source.team.section2Affiliation18 | append: '.png' | url}}"
+              src="{{  '/images/' | append: source.team.section2Affiliation18 | append: '.png'}}"
               height="30"
               class="mx-2">
             <h3 class="card-title display-6" style="margin: 0;">
@@ -718,7 +718,7 @@ layout: default
           {% assign photo2_18_url = source.team.section2Photo18 | strip %}
           {% if photo2_18_url != "" %}
             <img
-              src="{{ '/images/' | append: source.team.section2Photo18 | url }}"
+              src="{{ '/images/' | append: source.team.section2Photo18 }}"
               style="max-height: 200px; max-width: 100%;"
               class="m-4">
           {% endif %}
