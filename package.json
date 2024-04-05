@@ -15,7 +15,7 @@
     "dev:build": "npx @11ty/eleventy --pathprefix=website-2023 --serve",
     "preprod:build": "npx @11ty/eleventy --pathprefix=website-2023",
     "prod:build": "npx @11ty/eleventy",
-    "start": "npm run clean && npm run data && npm run serve"
+    "start": "npm run clean && npm run data && npm run dev:build"
   },
   "repository": {
     "type": "git",

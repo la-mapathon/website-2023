@@ -26,7 +26,8 @@
 
 		// let url = window.location.href;
 		// console.log('{{ page.lang}}');
-		window.location.replace("{{ '/' | url: page.lang }}");
+		console.log("{{ '/' | htmlBaseUrl }}{{ page.lang }}/");
+		window.location.replace("{{ '/' | htmlBaseUrl }}{{ page.lang }}/");
 	</script>
 </head>
 <body></body>
